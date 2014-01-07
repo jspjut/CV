@@ -20,7 +20,7 @@ ORDEREDHTML=src/cv.html \
 	src/professional.html \
 	src/teaching.html \
 	src/games.html \
-	src/references.html \
+#	src/references.html \
 
 raw.html: $(HTML) src/cv.md
 	pandoc -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(HTML))) src/cv.md
