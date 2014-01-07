@@ -7,10 +7,26 @@ SRC=$(wildcard src/*.md)
 HTML=$(filter-out src/cv.html,$(SRC:.md=.html))
 
 # Other CV selections
-#HTML=src/education.html
+ORDEREDHTML=src/cv.html \
+	src/description.html \
+	src/research.html \
+	src/education.html\
+	src/jobs.html \
+	src/skills.html \
+	src/publications.html \
+	src/students.html \
+	src/funding.html \
+	src/honors.html \
+	src/professional.html \
+	src/teaching.html \
+	src/games.html \
+	src/references.html \
 
-$(CVNAME).html: $(HTML) src/cv.md
-	pandoc -H src/cv.css -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(HTML))) src/cv.md
+raw.html: $(HTML) src/cv.md
+	pandoc -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(HTML))) src/cv.md
+
+$(CVNAME).html: $(ORDEREDHTML) src/cv.md
+	pandoc -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(ORDEREDHTML))) src/cv.md
 #pandoc -s -H src/cv.css -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(HTML))) src/cv.md
 
 $(CVNAME).pdf: $(CVNAME).html
