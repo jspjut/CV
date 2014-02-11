@@ -1,12 +1,12 @@
 ## Game Projects
 
-**72-Hour Game Development**
+**Wizard Fight Race**
 
 Led a group of four contributors in developing a game from scratch
 using the Unity game engine. This project was meant to see what a
 group of relatively inexperienced developers could do in comparison to
 other 72-hour game development projects that more well-established
-game devel- opers participate in. (Executable downloads available at
+game developers participate in. (Executable downloads available at
 [https://sites.google.com/site/72hourgame/download](https://sites.google.com/site/72hourgame/download)).
 
 **PyGauntlet Open Source Game**

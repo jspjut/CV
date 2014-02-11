@@ -10,5 +10,6 @@ F2013, S2014
 As a teaching assistant:
 
 * Kinetic Sculpture and Engineering; Utah CS5968/Art4455; F2010
-* Introduction to Computer Graphics; Utah CS5600; S2007 Network GameDesign; Utah CS59XX; S2007
+* Introduction to Computer Graphics; Utah CS5600; S2007
+* Network GameDesign; Utah CS59XX; S2007
 * Operating Systems; Utah CS5460/6460; F2006

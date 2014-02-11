@@ -1,3 +1,5 @@
+# make deploy to send to website build path
+
 CVNAME=spjut
 
 all: $(CVNAME).html $(CVNAME).pdf
