@@ -3,4 +3,4 @@
 Embedded Systems. 
 
 **Computer Graphics:** Rendering, Real Time Ray Tracing,
-Global Illumination.
+Global Illumination, Video Games.
