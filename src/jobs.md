@@ -27,7 +27,7 @@ Salt Lake City, UT, USA
 June 2007 - August 2012
 
 Developed a variety of architectures for real-time ray tracing, a
-cycle accurate simulator for perfor- mance studies, and a compiler
+cycle accurate simulator for performance studies, and a compiler
 back-end for the architectures.
 
 *Teaching Assistant*
@@ -44,5 +44,5 @@ Riverside, CA, USA
 June 2005 - March 2006
 
 Analyzed the performance of soft-core microprocessors on Xilinx FPGAs
-to develop tools for in- creased performance with reduced development
+to develop tools for increased performance with reduced development
 effort. Advisor: Dr. Frank Vahid.
