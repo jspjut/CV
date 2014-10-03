@@ -1,8 +1,9 @@
 ## Teaching
 
 * Digital Design and Computer Architecture; HMC E85; F2012, S2013,
-F2013, S2014 
-* Microprocessor Design; HMC E155; F2012, F2013
+F2013, S2014, F2014, S2015
+* Video Game Console Design; HMC E190X (in development): S2015
+* Microprocessor Design; HMC E155; F2012, F2013, F2014
 * Advanced Parallel Computer Architecture; HMC E190O (new class); S2013
 * Advanced Embedded Systems; HMC E190P (heavy revision); S2014
 * Parallel Hardware Ray Tracing; Utah CS6965; F2011

@@ -3,7 +3,8 @@
 1. [Daniel Kopta][dk], [Konstantin Shkurko][ks], **[Josef Spjut][jbs]**,
 [Erik Brunvand][elb], and [Al Davis][ald];
 **Memory Considerations for Low Energy Ray Tracing**,
-*Computer Graphics Forum*, To Appear, 2014.
+*Computer Graphics Forum*, August 7, 2014.
+[paper](http://onlinelibrary.wiley.com/doi/10.1111/cgf.12458/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+9th+Aug+from+10-2+BST+for+essential+maintenance.+Pay+Per+View+will+be+unavailable+from+10-6+BST.)
 1. [Daniel Kopta][dk], [Konstantin Shkurko][ks], **[Josef Spjut][jbs]**,
 [Erik Brunvand][elb], and [Al Davis][ald];
 **An Energy and Bandwidth Efficient Ray Tracing Architecture**,
