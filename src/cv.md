@@ -6,5 +6,5 @@ Claremont, CA 91711
 
 * (909)255-6733
 * [jspjut@hmc.edu](mailto:jspjut@hmc.edu)
-* [http://jspjut.github.io](http://jspjut.github.io)
+* [http://josef.spjut.me](http://josef.spjut.me)
 
