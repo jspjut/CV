@@ -47,3 +47,10 @@ deploy: all
 	scripts/to-jekyll.py $(CVNAME).html > $(DEPLOYCVHTML)
 	cp $(CVNAME).pdf $(DEPLOYCVPDF)
 
+# Publications List (make pubs.pdf)
+
+pubs.html: src/publications.html
+	pandoc -t html5 -o $@ $(addprefix -A , $<) src/cv.md
+
+pubs.pdf: pubs.html
+	pandoc -H src/plist.tex $< -o $@
