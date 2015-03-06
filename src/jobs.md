@@ -4,7 +4,7 @@
 Claremont, CA, USA
 
 *Visiting Professor*
-July 2012 - Present
+July 2012 - June 2015
 
 Taught courses in Digital Design, Parallel Computer Architecture, and
 Microprocessor and Embedded System Design. Advised research students
