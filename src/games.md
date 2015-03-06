@@ -6,8 +6,9 @@ Led a group of four contributors in developing a game from scratch
 using the Unity game engine. This project was meant to see what a
 group of relatively inexperienced developers could do in comparison to
 other 72-hour game development projects that more well-established
-game developers participate in. (Executable downloads available at
-[https://sites.google.com/site/72hourgame/download](https://sites.google.com/site/72hourgame/download)).
+game developers participate in. (Playable with unity plugin at 
+[http://josef.spjut.me/games/WFR7II_Web/WFR7II_Web.html](http://josef.spjut.me/games/WFR7II_Web/WFR7II_Web.html)).
+
 
 **PyGauntlet Open Source Game**
 
