@@ -49,9 +49,20 @@ Anaheim, June 8-9, 2008. **(Best paper award)**
 [paper](http://www.cs.utah.edu/~dkopta/papers/hwrt_sasp08.pdf)
 
 
+## Conference Talks and Courses
+1.  **[Josef Spjut][jspjut]**, [Richard Piersall][rpiersall], [Kirklann Lau][klau];
+**Build your own Game Controller**,
+*SIGGRAPH*,
+Los Angeles, August, 2015. **(to appear)**
+
+
 ## Technical Reports
 1. **3 Technical reports in progress**,
 Spring, 2015.
+1.  [Jean Sung][jsung], [Sebastian Krupa][skrupa], [Andrew Fishberg][afishberg], **[Josef Spjut][jspjut]**;
+**An Approach to Data Prefetching Using 2-Dimensional Selection Criteria**,
+*Tech Report, arXiv:tbd*,
+May, 2015. **(to appear)**
 1.  [Dong-hyeon Park][dhpark], [Akhil Bagaria][abagaria], [Fabiha Hannan][fhannan], [Eric Storm][estorm], **[Josef Spjut][jspjut]**;
 **Sphynx: A Shared Instruction Cache Exporatory Study**,
 *Tech Report, arXiv:1412.1140*,
@@ -75,6 +86,8 @@ New Orleans, August 1-3, 2009.
 August 9-10, 2008.
 
 
+   [klau]: None
+   [skrupa]: None
    [kshkurko]: http://www.cs.utah.edu/~kshkurko/
    [rajeev]: http://www.cs.utah.edu/~rajeev
    [ald]: http://www.cs.utah.edu/~ald/
@@ -88,8 +101,11 @@ August 9-10, 2008.
    [skellis]: http://vis.caltech.edu/~skellis
    [nil]: http://www.cs.utah.edu/~nil
    [elb]: http://www.cs.utah.edu/~elb/
+   [jsung]: None
+   [afishberg]: None
    [dkopta]: http://www.cs.utah.edu/~dkopta/
+   [rpiersall]: None
    [fhannan]: None
    [estorm]: None
    [aek]: http://www.cs.utah.edu/~aek
-   [dhpark]: None
+   [dhpark]: http://web.eecs.umich.edu/~dohypark/
