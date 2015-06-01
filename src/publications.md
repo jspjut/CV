@@ -62,7 +62,8 @@ Spring, 2015.
 1.  [Jean Sung][jsung], [Sebastian Krupa][skrupa], [Andrew Fishberg][afishberg], **[Josef Spjut][jspjut]**;
 **An Approach to Data Prefetching Using 2-Dimensional Selection Criteria**,
 *Tech Report, arXiv:tbd*,
-May, 2015. **(to appear)**
+May, 2015.
+[paper](http://arxiv.org/abs/1505.03899)
 1.  [Dong-hyeon Park][dhpark], [Akhil Bagaria][abagaria], [Fabiha Hannan][fhannan], [Eric Storm][estorm], **[Josef Spjut][jspjut]**;
 **Sphynx: A Shared Instruction Cache Exporatory Study**,
 *Tech Report, arXiv:1412.1140*,
