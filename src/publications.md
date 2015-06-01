@@ -61,7 +61,7 @@ Los Angeles, August, 2015. **(to appear)**
 Spring, 2015.
 1.  [Jean Sung][jsung], [Sebastian Krupa][skrupa], [Andrew Fishberg][afishberg], **[Josef Spjut][jspjut]**;
 **An Approach to Data Prefetching Using 2-Dimensional Selection Criteria**,
-*Tech Report, arXiv:tbd*,
+*Tech Report, arXiv:1505.03899*,
 May, 2015.
 [paper](http://arxiv.org/abs/1505.03899)
 1.  [Dong-hyeon Park][dhpark], [Akhil Bagaria][abagaria], [Fabiha Hannan][fhannan], [Eric Storm][estorm], **[Josef Spjut][jspjut]**;
