@@ -51,8 +51,8 @@ Anaheim, June 8-9, 2008. **(Best paper award)**
 
 ## Conference Talks and Courses
 1.  **[Josef Spjut][jspjut]**, [Richard Piersall][rpiersall], [Kirklann Lau][klau];
-**Build your own Game Controller**,
-*SIGGRAPH*,
+**Build your own game controller**,
+*SIGGRAPH Studio*,
 Los Angeles, August 10, 2015. **(Studio Course)**
 [slides](http://josef.spjut.me/class/controllerCourseNotes.pdf)
 [webpage](http://josef.spjut.me/class/game-controller.html)
