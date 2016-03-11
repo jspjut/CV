@@ -1,4 +1,17 @@
+## Dissertation
+1.  **[Josef Spjut][jspjut]**;
+**Efficient Ray Tracing Architectures**,
+*University of Utah Dissertation*,
+2015.
+[paper](http://gradworks.umi.com/3727095.pdf)
+
+
 ## Refereed Publications
+1.  [Trey Greer][tgreer], **[Josef Spjut][jspjut]**, [David Luebke][dluebke], [Turner Whitted][jtw];
+**Hybrid Modulation for Near Zero Display Latency**,
+*Society of Information Display*,
+May 24-27, 2016.
+[paper](None)
 1.  [Daniel Kopta][dkopta], [Konstantin Shkurko][kshkurko], **[Josef Spjut][jspjut]**, [Erik Brunvand][elb], [Al Davis][ald];
 **Memory Considerations for Low Energy Ray Tracing**,
 *Computer Graphics Forum*,
@@ -60,7 +73,7 @@ Los Angeles, August 10, 2015. **(Studio Course)**
 
 ## Technical Reports
 1. **3 Technical reports in progress**,
-Spring, 2015.
+Spring, 2016.
 1.  [Jean Sung][jsung], [Sebastian Krupa][skrupa], [Andrew Fishberg][afishberg], **[Josef Spjut][jspjut]**;
 **An Approach to Data Prefetching Using 2-Dimensional Selection Criteria**,
 *Tech Report, arXiv:1505.03899*,
@@ -95,12 +108,15 @@ August 9-10, 2008.
    [rajeev]: http://www.cs.utah.edu/~rajeev
    [ald]: http://www.cs.utah.edu/~ald/
    [tize]: http://www.cs.utah.edu/~thiago
+   [dluebke]: http://luebke.us/
    [sboulos]: http://graphics.stanford.edu/~boulos/research.htm
    [spugsley]: http://www.cs.utah.edu/~pugsley
    [abagaria]: None
+   [tgreer]: https://research.nvidia.com/users/trey-greer
    [dnellans]: http://david.nellans.org
    [jspjut]: http://josef.spjut.me
    [sparker]: http://www.cs.utah.edu/~sparker
+   [jtw]: https://research.nvidia.com/users/turner-whitted
    [skellis]: http://vis.caltech.edu/~skellis
    [nil]: http://www.cs.utah.edu/~nil
    [elb]: http://www.cs.utah.edu/~elb/
