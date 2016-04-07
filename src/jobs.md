@@ -1,5 +1,14 @@
 ## Professional Experience
 
+**NVIDIA**
+Durham, NC, USA
+
+*Research Scientist*
+June 2015 - Present
+
+Virtual and Augmented reality circuits and rendering research.
+
+
 **Harvey Mudd College**
 Claremont, CA, USA
 
@@ -15,7 +24,7 @@ in the area of computer architecture.
 Santa Clara, CA, USA
 
 *Research Intern/Consultant*
-June 2013 - Present
+June 2013 - May 2015
 
 Power and performance modeling for future graphics hardware.
 
