@@ -3,7 +3,7 @@
 **Efficient Ray Tracing Architectures**,
 *University of Utah Dissertation*,
 2015.
-[paper](http://gradworks.umi.com/3727095.pdf)
+[paper](http://josef.spjut.me/pubs/thesis.pdf)
 
 
 ## Refereed Publications
