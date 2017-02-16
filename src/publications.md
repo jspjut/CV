@@ -72,8 +72,8 @@ Los Angeles, August 10, 2015. **(Studio Course)**
 
 
 ## Technical Reports
-1. **3 Technical reports in progress**,
-Spring, 2016.
+1. **1 Technical report in progress**,
+Spring, 2017.
 1.  [Jean Sung][jsung], [Sebastian Krupa][skrupa], [Andrew Fishberg][afishberg], **[Josef Spjut][jspjut]**;
 **An Approach to Data Prefetching Using 2-Dimensional Selection Criteria**,
 *Tech Report, arXiv:1505.03899*,
@@ -84,6 +84,16 @@ May, 2015.
 *Tech Report, arXiv:1412.1140*,
 December 3, 2014.
 [paper](http://arxiv.org/abs/1412.1140)
+1.  [Andrew Carter][acarter], [Max Korbel][mkorbel], [Paula Ning][pning], **[Josef Spjut][jspjut]**;
+**Qualitative Cache Performance Analysis**,
+*Tech Report*,
+September, 2013.
+[paper](http://josef.spjut.me/pubs/ckns2013.pdf)
+1.  **[Josef Spjut][jspjut]**, [Seth Pugsley][spugsley];
+**Time to Recache: Measuring Memory Miss Behavior**,
+*Tech Report*,
+September, 2011.
+[paper](http://josef.spjut.me/pubs/spjutpugsley2011.pdf)
 1.  [Daniel Kopta][dkopta], [Andrew Kensler][aek], [Thiago Ize][tize], **[Josef Spjut][jspjut]**, [Erik Brunvand][elb], [Al Davis][ald];
 **Fast, Effective BVH Updates for Dynamic Ray-Traced Scenes Using Tree Rotations**,
 *Tech Report, UUCS 11-002, University of Utah*,
@@ -103,26 +113,29 @@ August 9-10, 2008.
 
 
    [klau]: None
-   [skrupa]: None
+   [abagaria]: None
    [kshkurko]: http://www.cs.utah.edu/~kshkurko/
    [rajeev]: http://www.cs.utah.edu/~rajeev
    [ald]: http://www.cs.utah.edu/~ald/
+   [mkorbel]: None
    [tize]: http://www.cs.utah.edu/~thiago
    [dluebke]: http://luebke.us/
    [sboulos]: http://graphics.stanford.edu/~boulos/research.htm
    [spugsley]: http://www.cs.utah.edu/~pugsley
-   [abagaria]: None
+   [skrupa]: None
    [tgreer]: https://research.nvidia.com/users/trey-greer
    [dnellans]: http://david.nellans.org
    [jspjut]: http://josef.spjut.me
    [sparker]: http://www.cs.utah.edu/~sparker
-   [jtw]: https://research.nvidia.com/users/turner-whitted
+   [acarter]: None
    [skellis]: http://vis.caltech.edu/~skellis
    [nil]: http://www.cs.utah.edu/~nil
+   [pning]: None
    [elb]: http://www.cs.utah.edu/~elb/
    [jsung]: None
    [afishberg]: None
    [dkopta]: http://www.cs.utah.edu/~dkopta/
+   [jtw]: https://research.nvidia.com/users/turner-whitted
    [rpiersall]: None
    [fhannan]: None
    [estorm]: None
