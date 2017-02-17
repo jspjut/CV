@@ -11,7 +11,7 @@
 **Hybrid Modulation for Near Zero Display Latency**,
 *Society of Information Display*,
 May 24-27, 2016.
-[paper](None)
+[paper](http://onlinelibrary.wiley.com/doi/10.1002/sdtp.10614/full)
 1.  [Daniel Kopta][dkopta], [Konstantin Shkurko][kshkurko], **[Josef Spjut][jspjut]**, [Erik Brunvand][elb], [Al Davis][ald];
 **Memory Considerations for Low Energy Ray Tracing**,
 *Computer Graphics Forum*,
