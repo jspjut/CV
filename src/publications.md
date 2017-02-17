@@ -72,8 +72,6 @@ Los Angeles, August 10, 2015. **(Studio Course)**
 
 
 ## Technical Reports
-1. **1 Technical report in progress**,
-Spring, 2017.
 1.  [Jean Sung][jsung], [Sebastian Krupa][skrupa], [Andrew Fishberg][afishberg], **[Josef Spjut][jspjut]**;
 **An Approach to Data Prefetching Using 2-Dimensional Selection Criteria**,
 *Tech Report, arXiv:1505.03899*,
@@ -84,16 +82,21 @@ May, 2015.
 *Tech Report, arXiv:1412.1140*,
 December 3, 2014.
 [paper](http://arxiv.org/abs/1412.1140)
+1.  [Eric Storm][estorm], **[Josef Spjut][jspjut]**;
+**A Time-to-Recache Case Study**,
+*Tech Report*,
+March, 2014.
+[paper](http://josef.spjut.me/pubs/stormttr14.pdf)
 1.  [Andrew Carter][acarter], [Max Korbel][mkorbel], [Paula Ning][pning], **[Josef Spjut][jspjut]**;
 **Qualitative Cache Performance Analysis**,
 *Tech Report*,
 September, 2013.
-[paper](http://josef.spjut.me/pubs/ckns2013.pdf)
+[paper](http://josef.spjut.me/pubs/carterttr13.pdf)
 1.  **[Josef Spjut][jspjut]**, [Seth Pugsley][spugsley];
 **Time to Recache: Measuring Memory Miss Behavior**,
 *Tech Report*,
 September, 2011.
-[paper](http://josef.spjut.me/pubs/spjutpugsley2011.pdf)
+[paper](http://josef.spjut.me/pubs/ttr11.pdf)
 1.  [Daniel Kopta][dkopta], [Andrew Kensler][aek], [Thiago Ize][tize], **[Josef Spjut][jspjut]**, [Erik Brunvand][elb], [Al Davis][ald];
 **Fast, Effective BVH Updates for Dynamic Ray-Traced Scenes Using Tree Rotations**,
 *Tech Report, UUCS 11-002, University of Utah*,
