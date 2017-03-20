@@ -1,17 +1,9 @@
-## Dissertation
-1.  **[Josef Spjut][jspjut]**;
-**Efficient Ray Tracing Architectures**,
-*University of Utah Dissertation*,
-2015.
-[paper](http://josef.spjut.me/pubs/thesis.pdf)
-
-
 ## Refereed Publications
 1.  [Trey Greer][tgreer], **[Josef Spjut][jspjut]**, [David Luebke][dluebke], [Turner Whitted][jtw];
 **Hybrid Modulation for Near Zero Display Latency**,
 *Society of Information Display*,
 May 24-27, 2016.
-[paper](http://onlinelibrary.wiley.com/doi/10.1002/sdtp.10614/full)
+[paper](http://josef.spjut.me/greer16.pdf)
 1.  [Daniel Kopta][dkopta], [Konstantin Shkurko][kshkurko], **[Josef Spjut][jspjut]**, [Erik Brunvand][elb], [Al Davis][ald];
 **Memory Considerations for Low Energy Ray Tracing**,
 *Computer Graphics Forum*,
@@ -69,6 +61,14 @@ Anaheim, June 8-9, 2008. **(Best paper award)**
 Los Angeles, August 10, 2015. **(Studio Course)**
 [slides](http://josef.spjut.me/class/controllerCourseNotes.pdf)
 [webpage](http://josef.spjut.me/class/game-controller.html)
+
+
+## Dissertation
+1.  **[Josef Spjut][jspjut]**;
+**Efficient Ray Tracing Architectures**,
+*University of Utah Dissertation*,
+2015.
+[paper](http://josef.spjut.me/pubs/thesis.pdf)
 
 
 ## Technical Reports
