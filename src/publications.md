@@ -63,6 +63,7 @@ Los Angeles, July 30 - August 3, 2017.
 **Stretchable Transducers for Kinesthetic Interactions in Virtual Reality**,
 *SIGGRAPH Emerging Technologies*,
 Los Angeles, July 30 - August 3, 2017.
+[paper](http://research.nvidia.com/sites/default/files/publications/peele_siggraph_etech17.pdf)
 1.  [Bryan Peele][bpeele], [Benjamin Mac Murray][bmacmurray], [Jose Barreiros][jbarreiros], [Robert Shepherd][rshepherd], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke];
 **Stretchable Transducers for Haptic Interactions in Virtual and Augmented Reality**,
 *GTC VR Village*,
