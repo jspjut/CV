@@ -59,6 +59,7 @@ Anaheim, June 8-9, 2008. **(Best paper award)**
 **Varifocal Virtuality: A Novel Optical Layout for Near-Eye Display**,
 *SIGGRAPH Emerging Technologies*,
 Los Angeles, July 30 - August 3, 2017.
+[paper](http://research.nvidia.com/sites/default/files/publications/final.pdf)
 1.  [Robert Shepherd][rshepherd], [Bryan Peele][bpeele], [Benjamin Mac Murray][bmacmurray], [Jose Barreiros][jbarreiros], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke];
 **Stretchable Transducers for Kinesthetic Interactions in Virtual Reality**,
 *SIGGRAPH Emerging Technologies*,
