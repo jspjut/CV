@@ -72,12 +72,17 @@ San Jose, May 9 - 11, 2017.
 
 
 ## Conference Talks and Courses
+1.  [Bryan Peele][bpeele], [Benjamin Mac Murray][bmacmurray], [Robert Shepherd][rshepherd], [Jose Barreiros][jbarreiros], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke];
+**Stretchable Transducers for Kinesthetic Interactions in Virtual Reality**,
+*SIGGRAPH Experience Presentations*,
+Los Angeles, August 3, 2017.
+[paper](http://research.nvidia.com/sites/default/files/publications/peele_siggraph_etech17.pdf)
 1.  **[Josef Spjut][jspjut]**, [Richard Piersall][rpiersall], [Kirklann Lau][klau];
 **Build your own game controller**,
 *SIGGRAPH Studio*,
 Los Angeles, August 10, 2015. **(Studio Course)**
 [slides](http://josef.spjut.me/class/controllerCourseNotes.pdf)
-[webpage](http://josef.spjut.me/class/game-controller.html)
+[webpage](http://josef.spjut.me/class/game-controller)
 
 
 ## Dissertation
