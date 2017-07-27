@@ -34,6 +34,7 @@ Amsterdam, October, 2010.
 **SWEL: Hardware Cache Coherence Protocols to Map Shared Data onto Shared Caches**,
 *19th International Conference on Parallel Architectures and Compilation Techniques (PACT-19)*,
 Vienna, September, 2010.
+[paper](https://pdfs.semanticscholar.org/ce47/02c907835c14022c9e3052a25c46d459c295.pdf)
 1.  **[Josef Spjut][jspjut]**, [Andrew Kensler][aek], [Daniel Kopta][dkopta], [Erik Brunvand][elb];
 **TRaX: A Multicore Architecture for Real-Time Ray Tracing**,
 *IEEE Transactions on Computer Aided Design of Integrated Circuits and Systems (TCAD)*,
@@ -43,10 +44,12 @@ December, 2009.
 **Hardware-accelerated gradient noise for graphics**,
 *Proceedings of the 19th ACM Great Lakes Symposium on VLSI (GLSVLSI'09)*,
 Boston, May 10-12, 2009.
+[paper](http://www.eng.utah.edu/~cs6958/papers/noise.pdf)
 1.  [Niladrish Chatterjee][nil], [Seth Pugsley][spugsley], **[Josef Spjut][jspjut]**, [Rajeev Balasubramonian][rajeev];
 **Optimizing a Multi-Core Processor for Message-Passing Workloads**,
 *5th Workshop on Unique Chips and Systems (UCAS-5)*,
 Boston, April, 2009.
+[paper](http://ai2-s2-pdfs.s3.amazonaws.com/f87a/bd4bf77bae5286fbde62de6b331d45c30d0c.pdf)
 1.  **[Josef Spjut][jspjut]**, [Solomon Boulos][sboulos], [Daniel Kopta][dkopta], [Erik Brunvand][elb], [Spencer Kellis][skellis];
 **TRaX: A Multi-Threaded Architecture for Real-Time Ray Tracing**,
 *Symposium on Application Specific Processors (SASP)*,
@@ -67,7 +70,7 @@ Los Angeles, July 30 - August 3, 2017.
 [paper](http://research.nvidia.com/sites/default/files/publications/peele_siggraph_etech17.pdf)
 1.  [Bryan Peele][bpeele], [Benjamin Mac Murray][bmacmurray], [Jose Barreiros][jbarreiros], [Robert Shepherd][rshepherd], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke];
 **Stretchable Transducers for Haptic Interactions in Virtual and Augmented Reality**,
-*GTC VR Village*,
+*GPU Technology Conference VR Village*,
 San Jose, May 9 - 11, 2017.
 
 
@@ -123,7 +126,7 @@ September, 2011.
 **Fast, Effective BVH Updates for Dynamic Ray-Traced Scenes Using Tree Rotations**,
 *Tech Report, UUCS 11-002, University of Utah*,
 July, 2011.
-[paper](http://www.cs.utah.edu/research/techreports/2011/pdf/UUCS-11-002.pdf)
+[paper](https://pdfs.semanticscholar.org/c352/f679482dcea78e1abe0913b8e12d1c52ae5b.pdf)
 
 
 ## Refereed Posters
@@ -131,53 +134,55 @@ July, 2011.
 **Grid-Based Ray Tracing for a Parallel Computing Architecture**,
 *High Performance Graphics (HPG'09)*,
 New Orleans, August 1-3, 2009.
+[paper](http://josef.spjut.me/pubs/HPG09_poster.pdf)
 1.  [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Erik Brunvand][elb], [Steven Parker][sparker];
 **Comparing Incoherent Ray Performance of TRaX vs. Manta**,
 *IEEE Symposium on Interactive Ray Tracing (RT08)*,
 August 9-10, 2008.
+[paper](http://josef.spjut.me/pubs/kopta_rt08.pdf)
 
 
-   [renng]: https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html/
-   [abagaria]: None
+   [jspjut]: http://josef.spjut.me
+   [dkopta]: http://www.cs.utah.edu/~dkopta/
+   [elb]: http://www.cs.utah.edu/~elb/
    [kshkurko]: http://www.cs.utah.edu/~kshkurko/
    [ald]: http://www.cs.utah.edu/~ald/
-   [dluebke]: http://luebke.us/
-   [wlopes]: https://research.nvidia.com/users/ward-lopes
-   [tgreer]: https://research.nvidia.com/users/trey-greer
-   [dnellans]: http://david.nellans.org
-   [jtw]: https://research.nvidia.com/users/turner-whitted
-   [psrinivasan]: https://people.eecs.berkeley.edu/~pratul/
    [nil]: http://www.cs.utah.edu/~nil
-   [pning]: None
-   [elb]: http://www.cs.utah.edu/~elb/
-   [jsung]: None
-   [afishberg]: None
-   [bmacmurray]: https://orl.mae.cornell.edu/#people
-   [oshapira]: http://omershapira.com/#all
-   [jonghyunkim]: None
-   [mbanks]: http://bankslab.berkeley.edu/
-   [klau]: None
-   [pshirley]: https://www.cs.utah.edu/~shirley/
-   [rajeev]: http://www.cs.utah.edu/~rajeev
-   [dhpark]: http://web.eecs.umich.edu/~dohypark/
-   [bpeele]: http://www.gnarlydesign.io/
+   [dnellans]: http://david.nellans.org
    [tize]: http://www.cs.utah.edu/~thiago
+   [aek]: http://www.cs.utah.edu/~aek
+   [sparker]: http://www.cs.utah.edu/~sparker
+   [rajeev]: http://www.cs.utah.edu/~rajeev
    [sboulos]: http://graphics.stanford.edu/~boulos/research.htm
    [spugsley]: http://www.cs.utah.edu/~pugsley
-   [skrupa]: None
-   [mkorbel]: None
-   [jspjut]: http://josef.spjut.me
-   [sparker]: http://www.cs.utah.edu/~sparker
-   [rshepherd]: https://orl.mae.cornell.edu/#people
    [skellis]: http://vis.caltech.edu/~skellis
    [acarter]: None
-   [dkopta]: http://www.cs.utah.edu/~dkopta/
-   [glove]: https://www.dur.ac.uk/physics/staff/profiles/?id=246
-   [kaskit]: https://kaanaksit.com/
-   [rpiersall]: None
+   [mkorbel]: None
+   [pning]: None
+   [dhpark]: http://web.eecs.umich.edu/~dohypark/
+   [abagaria]: None
    [fhannan]: None
    [estorm]: None
-   [jbarreiros]: None
-   [aek]: http://www.cs.utah.edu/~aek
-   [scholewiak]: http://steven.cholewiak.com/
+   [jsung]: None
+   [skrupa]: None
+   [afishberg]: None
+   [rpiersall]: None
+   [klau]: None
+   [tgreer]: https://research.nvidia.com/users/trey-greer
+   [jtw]: https://research.nvidia.com/users/turner-whitted
+   [dluebke]: http://luebke.us/
+   [kaskit]: https://kaanaksit.com/
+   [wlopes]: https://research.nvidia.com/users/ward-lopes
+   [jonghyunkim]: None
    [apatney]: http://idav.ucdavis.edu/~anjul/
+   [pshirley]: https://www.cs.utah.edu/~shirley/
+   [scholewiak]: http://steven.cholewiak.com/
+   [psrinivasan]: https://people.eecs.berkeley.edu/~pratul/
+   [renng]: https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html/
+   [mbanks]: http://bankslab.berkeley.edu/
+   [glove]: https://www.dur.ac.uk/physics/staff/profiles/?id=246
+   [rshepherd]: https://orl.mae.cornell.edu/#people
+   [bpeele]: http://www.gnarlydesign.io/
+   [bmacmurray]: https://orl.mae.cornell.edu/#people
+   [oshapira]: http://omershapira.com/#all
+   [jbarreiros]: None
