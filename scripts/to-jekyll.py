@@ -5,14 +5,18 @@ import sys
 try:
     ready = False
     # print header
-    print '''---
-layout: page
-title: Josef B. Spjut
-tagline: 
-group: 
----
-{% include JB/setup %}
+    print '''+++
+title = "Josef B. Spjut"
++++
 '''
+# '''---
+# layout: page
+# title: Josef B. Spjut
+# tagline: 
+# group: 
+# ---
+# {% include JB/setup %}
+# '''
     for line in open(sys.argv[1]):
         # only keep html inside the body for jekyll to do the rest
         if line[:7] == "</body>":

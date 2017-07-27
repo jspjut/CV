@@ -41,8 +41,8 @@ clean:
 	rm $(HTML) 
 
 # The deploy target is for deploying to my personal website
-DEPLOYCVHTML=~/jspjut.github.io/cv.html
-DEPLOYCVPDF=~/jspjut.github.io/files/cv.pdf
+DEPLOYCVHTML=~/jspjut.github.io/content/cv/_index.html
+DEPLOYCVPDF=~/jspjut.github.io/static/files/cv.pdf
 deploy: all
 	scripts/to-jekyll.py $(CVNAME).html > $(DEPLOYCVHTML)
 	cp $(CVNAME).pdf $(DEPLOYCVPDF)
