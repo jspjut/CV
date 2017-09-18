@@ -4,9 +4,11 @@
 * Member, ACM
 * Reviewer, Computers and Graphics (CAG)
 * Reviewer, High Performance Graphics (HPG) 
-* Reviewer, Transactions on Circuits and Systems (TCAS) 
+* Reviewer, Transactions on Circuits and Systems (TCAS)
 * Reviewer, SIGGRAPH General Submissions and VR Village
+* Jury Member, SIGGRAPH VR VIllage
 * Reviewer, Journal of Imaging
+* Reviewer, Symmetry
 
 [//]: # (* Reviewer, Computers and Graphics (CAG) 2013, 2012 )
 [///]: # (* Reviewer, High Performance Graphics (HPG) 2012, 2011, 2009 )
