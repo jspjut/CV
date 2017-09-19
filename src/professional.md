@@ -1,14 +1,14 @@
 ## Professional Activities
 
-* Member, IEEE
-* Member, ACM
-* Reviewer, Computers and Graphics (CAG)
-* Reviewer, High Performance Graphics (HPG) 
-* Reviewer, Transactions on Circuits and Systems (TCAS)
-* Reviewer, SIGGRAPH General Submissions and VR Village
-* Jury Member, SIGGRAPH VR VIllage
-* Reviewer, Journal of Imaging
-* Reviewer, Symmetry
+* Member, [IEEE](http://ieee.org)
+* Member, [ACM](http://acm.org)
+* Reviewer, [Computers and Graphics (CAG)](https://www.journals.elsevier.com/computers-and-graphics/)
+* Reviewer, [High Performance Graphics (HPG)](http://www.highperformancegraphics.org/)
+* Reviewer, [Transactions on Circuits and Systems (TCAS)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919)
+* Reviewer, [SIGGRAPH General Submissions and VR Village](http://s2017.siggraph.org/)
+* Jury Member, [SIGGRAPH VR Village](http://s2017.siggraph.org/)
+* Reviewer, [Journal of Imaging](http://www.mdpi.com/journal/jimaging)
+* Reviewer, [Symmetry](http://www.mdpi.com/journal/symmetry)
 
 [//]: # (* Reviewer, Computers and Graphics (CAG) 2013, 2012 )
 [///]: # (* Reviewer, High Performance Graphics (HPG) 2012, 2011, 2009 )
