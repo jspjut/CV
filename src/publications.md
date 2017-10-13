@@ -186,3 +186,13 @@ August 9-10, 2008.
    [bmacmurray]: https://orl.mae.cornell.edu/#people
    [oshapira]: http://omershapira.com/#all
    [jbarreiros]: None
+   [mmcguire]: https://casual-effects.com/morgan/index.html
+   [balfieri]: None
+   [taila]: http://research.nvidia.com/person/timo-aila
+   [tkarras]: http://research.nvidia.com/person/tero-karras
+   [slaine]: http://research.nvidia.com/person/samuli-laine
+   [fvahid]: http://www.cs.ucr.edu/~vahid/
+   [dsheldon]: None
+   [ssirowy]: None
+   [rlysecky]: http://www2.engr.arizona.edu/~rlysecky/
+   [mparker]: None
