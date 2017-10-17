@@ -5,6 +5,7 @@
 * Reviewer, [Computers and Graphics (CAG)](https://www.journals.elsevier.com/computers-and-graphics/)
 * Reviewer, [High Performance Graphics (HPG)](http://www.highperformancegraphics.org/)
 * Reviewer, [Transactions on Circuits and Systems (TCAS)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919)
+* Reviewer, [Transactions on Very Large Scale Integration Systems (TVLSI)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92)
 * Reviewer, [SIGGRAPH General Submissions and VR Village](http://s2017.siggraph.org/)
 * Jury Member, [SIGGRAPH VR Village](http://s2017.siggraph.org/)
 * Reviewer, [Journal of Imaging](http://www.mdpi.com/journal/jimaging)
