@@ -1,4 +1,14 @@
 ## Refereed Publications
+1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Ian Mallett][imallett], [Cem Yuksel][cyuksel];
+**SimTrax: Simulation Infrastructure for Exploring Thousands of Cores**,
+*ACM Great Lakes Symposium on VLSI*,
+May 23-25, 2018. (to appear)
+[paper](None)
+1.  [Benjamin Mac Murray][bmacmurray], [Bryan Peele][bpeele], [Patricia Xu][patriciaxu], **[Josef Spjut][jspjut]**, [Omer Shapira][oshapira], [David Luebke][dluebke], [Robert Shepherd][rshepherd];
+**A Variable Shape and Variable Stiffness Controller for Haptic Virtual Interactions**,
+*IEEE International Conference on Soft Robotics*,
+April 24-28, 2018. (to appear)
+[paper](http://research.nvidia.com/sites/default/files/pubs/2018-04_A-Variable-Shape/Mac%20Murray%20Final%2020180228.pdf)
 1.  [Trey Greer][tgreer], **[Josef Spjut][jspjut]**, [David Luebke][dluebke], [Turner Whitted][jtw];
 **Hybrid Modulation for Near Zero Display Latency**,
 *Society of Information Display*,
@@ -63,6 +73,7 @@ Anaheim, June 8-9, 2008. **(Best paper award)**
 *SIGGRAPH Emerging Technologies*,
 Los Angeles, July 30 - August 3, 2017.
 [paper](http://research.nvidia.com/sites/default/files/publications/final%281%29.pdf)
+[slides](https://kaanaksit.files.wordpress.com/2017/08/siggraph_slides.pdf)
 1.  [Robert Shepherd][rshepherd], [Bryan Peele][bpeele], [Benjamin Mac Murray][bmacmurray], [Jose Barreiros][jbarreiros], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke];
 **Stretchable Transducers for Kinesthetic Interactions in Virtual Reality**,
 *SIGGRAPH Emerging Technologies*,
@@ -75,6 +86,11 @@ San Jose, May 9 - 11, 2017.
 
 
 ## Conference Talks and Courses
+1.  **[Josef Spjut][jspjut]**;
+**The Augmented Frontier: Challenges for Near Eye Display Computing**,
+*[AR In Action](http://arinaction.org/)*,
+January 16-17, 2018.
+[paper](http://josef.spjut.me/pubs/spjutARIA2018.pdf)
 1.  [Bryan Peele][bpeele], [Benjamin Mac Murray][bmacmurray], [Robert Shepherd][rshepherd], [Jose Barreiros][jbarreiros], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke];
 **Stretchable Transducers for Kinesthetic Interactions in Virtual Reality**,
 *SIGGRAPH Experience Presentations*,
@@ -97,6 +113,11 @@ Los Angeles, August 10, 2015. **(Studio Course)**
 
 
 ## Technical Reports
+1.  [Chris Larson][clarson], **[Josef Spjut][jspjut]**, [Ross Knepper][rknepper], [Robert Shepherd][rshepherd];
+**OrbTouch: Recognizing Human Touch in Deformable Interfaces with Deep Neural Networks**,
+*Tech Report, arXiv:1706.02542*,
+June, 2017.
+[paper](https://arxiv.org/abs/1706.02542)
 1.  [Jean Sung][jsung], [Sebastian Krupa][skrupa], [Andrew Fishberg][afishberg], **[Josef Spjut][jspjut]**;
 **An Approach to Data Prefetching Using 2-Dimensional Selection Criteria**,
 *Tech Report, arXiv:1505.03899*,
@@ -185,7 +206,9 @@ August 9-10, 2008.
    [bpeele]: http://www.gnarlydesign.io/
    [bmacmurray]: https://orl.mae.cornell.edu/#people
    [oshapira]: http://omershapira.com/#all
-   [jbarreiros]: None
+   [jbarreiros]: https://orl.mae.cornell.edu//#people
+   [clarson]: https://chrislarson1.github.io/blog/
+   [rknepper]: http://www.cs.cornell.edu/~rak/
    [mmcguire]: https://casual-effects.com/morgan/index.html
    [balfieri]: None
    [taila]: http://research.nvidia.com/person/timo-aila
@@ -196,3 +219,8 @@ August 9-10, 2008.
    [ssirowy]: None
    [rlysecky]: http://www2.engr.arizona.edu/~rlysecky/
    [mparker]: None
+   [patriciaxu]: https://orl.mae.cornell.edu//#people
+   [tgrant]: https://www.cs.utah.edu/~tgrant/
+   [evasiou]: http://www.cs.utah.edu/~elvasiou/
+   [imallett]: https://geometrian.com/
+   [cyuksel]: http://www.cemyuksel.com/
