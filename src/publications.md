@@ -1,13 +1,18 @@
 ## Refereed Publications
+1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
+**Adaptive Temporal Antialiasing**,
+*High-Performance Graphics (HPG 2018)*,
+Vancouver, August 10-12, 2018. (to appear)
+[paper](None)
 1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Ian Mallett][imallett], [Cem Yuksel][cyuksel];
 **SimTrax: Simulation Infrastructure for Exploring Thousands of Cores**,
 *ACM Great Lakes Symposium on VLSI*,
-May 23-25, 2018. (to appear)
-[paper](None)
+May 23-25, 2018.
+[paper](http://josef.spjut.me/pubs/shkurko18.pdf)
 1.  [Benjamin Mac Murray][bmacmurray], [Bryan Peele][bpeele], [Patricia Xu][patriciaxu], **[Josef Spjut][jspjut]**, [Omer Shapira][oshapira], [David Luebke][dluebke], [Robert Shepherd][rshepherd];
 **A Variable Shape and Variable Stiffness Controller for Haptic Virtual Interactions**,
 *IEEE International Conference on Soft Robotics*,
-April 24-28, 2018. (to appear)
+April 24-28, 2018.
 [paper](http://research.nvidia.com/sites/default/files/pubs/2018-04_A-Variable-Shape/Mac%20Murray%20Final%2020180228.pdf)
 1.  [Trey Greer][tgreer], **[Josef Spjut][jspjut]**, [David Luebke][dluebke], [Turner Whitted][jtw];
 **Hybrid Modulation for Near Zero Display Latency**,
@@ -113,6 +118,11 @@ Los Angeles, August 10, 2015. **(Studio Course)**
 
 
 ## Technical Reports
+1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Ian Mallett][imallett], [Cem Yuksel][cyuksel];
+**SimTrax: Simulation Infrastructure for Exploring Thousands of Cores**,
+*Tech Report*,
+March 29, 2018.
+[paper](http://josef.spjut.me/pubs/shkurko18_tr.pdf)
 1.  [Chris Larson][clarson], **[Josef Spjut][jspjut]**, [Ross Knepper][rknepper], [Robert Shepherd][rshepherd];
 **OrbTouch: Recognizing Human Touch in Deformable Interfaces with Deep Neural Networks**,
 *Tech Report, arXiv:1706.02542*,
@@ -224,3 +234,6 @@ August 9-10, 2008.
    [evasiou]: http://www.cs.utah.edu/~elvasiou/
    [imallett]: https://geometrian.com/
    [cyuksel]: http://www.cemyuksel.com/
+   [amarrs]: http://visualextract.com/
+   [hgruen]: https://www.linkedin.com/in/holger-gruen-b456791/
+   [rsathe]: https://www.linkedin.com/in/rasathe/
