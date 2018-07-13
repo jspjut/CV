@@ -3,7 +3,7 @@
 **Adaptive Temporal Antialiasing**,
 *High-Performance Graphics (HPG 2018)*,
 Vancouver, August 10-12, 2018. (to appear)
-[paper](None)
+[paper](http://research.nvidia.com/sites/default/files/pubs/2018-08_Adaptive-Temporal-Antialiasing/adaptive-temporal-antialiasing-preprint_0.pdf)
 1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Ian Mallett][imallett], [Cem Yuksel][cyuksel];
 **SimTrax: Simulation Infrastructure for Exploring Thousands of Cores**,
 *ACM Great Lakes Symposium on VLSI*,
@@ -73,7 +73,12 @@ Anaheim, June 8-9, 2008. **(Best paper award)**
 
 
 ## Technical Demos
-1.  [Kaan Aksit][kaskit], [Ward Lopes][wlopes], [Jonghyun Kim][jonghyunkim], **[Josef Spjut][jspjut]**, [Anjul Patney][apatney], [Peter Shirley][pshirley], [David Luebke][dluebke], [Steven A. Cholewiak][scholewiak], [Pratul Srinivasan][psrinivasan], [Ren Ng][renng], [Martin S. Banks][mbanks], [Gordon D. Love][glove];
+1.  [Kishore Rathinavel][krathinavel], [Praneeth Chakravarthula][pchakravarthula], [Kaan Aksit][kaksit], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Turner Whitted][jtw], [David Luebke][dluebke], [Henry Fuchs][hfuchs];
+**Steerable Application-Adaptive Near-Eye Displays**,
+*SIGGRAPH Emerging Technologies*,
+Vancouver, August 12 - 16, 2018. (to appear)
+[paper](None)
+1.  [Kaan Aksit][kaksit], [Ward Lopes][wlopes], [Jonghyun Kim][jonghyunkim], **[Josef Spjut][jspjut]**, [Anjul Patney][apatney], [Peter Shirley][pshirley], [David Luebke][dluebke], [Steven A. Cholewiak][scholewiak], [Pratul Srinivasan][psrinivasan], [Ren Ng][renng], [Martin S. Banks][mbanks], [Gordon D. Love][glove];
 **Varifocal Virtuality: A Novel Optical Layout for Near-Eye Display**,
 *SIGGRAPH Emerging Technologies*,
 Los Angeles, July 30 - August 3, 2017.
@@ -202,7 +207,7 @@ August 9-10, 2008.
    [tgreer]: https://research.nvidia.com/users/trey-greer
    [jtw]: https://research.nvidia.com/users/turner-whitted
    [dluebke]: http://luebke.us/
-   [kaskit]: https://kaanaksit.com/
+   [kaksit]: https://kaanaksit.com/
    [wlopes]: https://research.nvidia.com/users/ward-lopes
    [jonghyunkim]: None
    [apatney]: http://idav.ucdavis.edu/~anjul/
@@ -237,3 +242,7 @@ August 9-10, 2008.
    [amarrs]: http://visualextract.com/
    [hgruen]: https://www.linkedin.com/in/holger-gruen-b456791/
    [rsathe]: https://www.linkedin.com/in/rasathe/
+   [krathinavel]: https://sites.google.com/site/kishorerathinavel/
+   [pchakravarthula]: http://www.ee.iitm.ac.in/~ee11b061/
+   [bboudaoud]: https://www.linkedin.com/in/ben-boudaoud/
+   [hfuchs]: http://henryfuchs.web.unc.edu/
