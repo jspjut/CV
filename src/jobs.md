@@ -26,7 +26,7 @@ Santa Clara, CA, USA
 *Research Intern/Consultant*
 June 2013 - May 2015
 
-Power and performance modeling for future graphics hardware.
+Power and performance modeling and research for the **Ray Tracing Core** in the **Turing GPU** architecture.
 
 
 **University of Utah**
