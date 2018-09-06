@@ -3,7 +3,7 @@
 **Adaptive Temporal Antialiasing**,
 *High-Performance Graphics (HPG 2018)*,
 Vancouver, August 10-12, 2018. (to appear)
-[paper](http://research.nvidia.com/sites/default/files/pubs/2018-08_Adaptive-Temporal-Antialiasing/adaptive-temporal-antialiasing-preprint_0.pdf)
+[paper](http://research.nvidia.com/sites/default/files/pubs/2018-08_Adaptive-Temporal-Antialiasing/adaptive-temporal-antialiasing-preprint.pdf)
 1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Ian Mallett][imallett], [Cem Yuksel][cyuksel];
 **SimTrax: Simulation Infrastructure for Exploring Thousands of Cores**,
 *ACM Great Lakes Symposium on VLSI*,
