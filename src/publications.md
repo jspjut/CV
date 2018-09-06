@@ -2,7 +2,7 @@
 1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
 **Adaptive Temporal Antialiasing**,
 *High-Performance Graphics (HPG 2018)*,
-Vancouver, August 10-12, 2018. (to appear)
+Vancouver, August 10-12, 2018.
 [paper](http://research.nvidia.com/sites/default/files/pubs/2018-08_Adaptive-Temporal-Antialiasing/adaptive-temporal-antialiasing-preprint.pdf)
 1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Ian Mallett][imallett], [Cem Yuksel][cyuksel];
 **SimTrax: Simulation Infrastructure for Exploring Thousands of Cores**,
@@ -76,8 +76,8 @@ Anaheim, June 8-9, 2008. **(Best paper award)**
 1.  [Kishore Rathinavel][krathinavel], [Praneeth Chakravarthula][pchakravarthula], [Kaan Aksit][kaksit], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Turner Whitted][jtw], [David Luebke][dluebke], [Henry Fuchs][hfuchs];
 **Steerable Application-Adaptive Near-Eye Displays**,
 *SIGGRAPH Emerging Technologies*,
-Vancouver, August 12 - 16, 2018. (to appear)
-[paper](None)
+Vancouver, August 12 - 16, 2018. **(Best in show award)**
+[paper](https://kaanaksit.com/portfolio/manufacturing-application-driven-near-eye-displays/)
 1.  [Kaan Aksit][kaksit], [Ward Lopes][wlopes], [Jonghyun Kim][jonghyunkim], **[Josef Spjut][jspjut]**, [Anjul Patney][apatney], [Peter Shirley][pshirley], [David Luebke][dluebke], [Steven A. Cholewiak][scholewiak], [Pratul Srinivasan][psrinivasan], [Ren Ng][renng], [Martin S. Banks][mbanks], [Gordon D. Love][glove];
 **Varifocal Virtuality: A Novel Optical Layout for Near-Eye Display**,
 *SIGGRAPH Emerging Technologies*,
