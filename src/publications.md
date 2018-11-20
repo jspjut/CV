@@ -1,4 +1,9 @@
 ## Refereed Publications
+1.  [Jose Barreiros][jbarreiros], [Houston Claure][hclaure], [Bryan Peele][bpeele], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke], [Malte Jung][mjung], [Robert Shepherd][rshepherd];
+**Fluidic Elastomer Actuators for Haptic Interactions in Virtual Reality**,
+*IEEE Robotics and Automation Letters*,
+None, February, 2019. (to appear)
+[paper](None)
 1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
 **Adaptive Temporal Antialiasing**,
 *High-Performance Graphics (HPG 2018)*,
@@ -166,6 +171,11 @@ July, 2011.
 
 
 ## Refereed Posters
+1.  [Mona Jalal][mjalal], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Margrit Betke][mbetke];
+**Large-scale Synthetic Domain Randomized 6DoF Object Pose Estimation Dataset**,
+*New England Computer Vision Workshop*,
+Boston, November 26, 2018. (to appear)
+[paper](None)
 1.  [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Erik Brunvand][elb];
 **Grid-Based Ray Tracing for a Parallel Computing Architecture**,
 *High Performance Graphics (HPG'09)*,
@@ -230,8 +240,8 @@ August 9-10, 2008.
    [tkarras]: http://research.nvidia.com/person/tero-karras
    [slaine]: http://research.nvidia.com/person/samuli-laine
    [fvahid]: http://www.cs.ucr.edu/~vahid/
-   [dsheldon]: None
-   [ssirowy]: None
+   [dsheldon]: https://www.linkedin.com/in/david-sheldon-b3600339/
+   [ssirowy]: https://www.linkedin.com/in/scott-sirowy/
    [rlysecky]: http://www2.engr.arizona.edu/~rlysecky/
    [mparker]: None
    [patriciaxu]: https://orl.mae.cornell.edu//#people
@@ -246,3 +256,9 @@ August 9-10, 2008.
    [pchakravarthula]: http://www.ee.iitm.ac.in/~ee11b061/
    [bboudaoud]: https://www.linkedin.com/in/ben-boudaoud/
    [hfuchs]: http://henryfuchs.web.unc.edu/
+   [yyuralsky]: https://www.linkedin.com/in/yuryuralsky/
+   [mjalal]: http://monajalal.com/
+   [nkalavakonda]: https://nivedithakalavakonda.com/
+   [hclaure]: https://www.linkedin.com/in/houston-claure-33793771/
+   [mjung]: http://mjung.infosci.cornell.edu/
+   [mbetke]: http://www.cs.bu.edu/~betke/
