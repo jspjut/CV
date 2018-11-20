@@ -2,6 +2,7 @@
 
 * Member, [IEEE](http://ieee.org)
 * Member, [ACM](http://acm.org)
+* Co-organizer, User Interactions for Building Knowledge Workshop (UIBK 2019) co-located with IUI
 * Reviewer, [Computers and Graphics (CAG)](https://www.journals.elsevier.com/computers-and-graphics/)
 * Reviewer, [High Performance Graphics (HPG)](http://www.highperformancegraphics.org/)
 * Reviewer, [Transactions on Circuits and Systems (TCAS)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919)
