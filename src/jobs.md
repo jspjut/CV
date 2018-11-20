@@ -6,7 +6,7 @@ Durham, NC, USA
 *Research Scientist*
 June 2015 - Present
 
-Virtual and Augmented reality architecture and rendering research.
+Augmented reality and esports research.
 
 
 **Harvey Mudd College**
