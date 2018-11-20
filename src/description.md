@@ -1,4 +1,3 @@
-Seeking research positions in the areas of Computer Graphics and Computer
-Architecture and related fields.
-I am particularly interested in advancing fields related to how humans
-interact with computers and enabling new human experiences.
+I am a computer generalist with experience in graphics architecture, embedded systems and displays.
+My interests in human relationships and human computer interfacing have led me to augmented reality and esports research.
+I work to create a future where people are closer than ever and computers provide the means for deeper human relationships.
