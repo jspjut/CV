@@ -11,6 +11,7 @@
 * Jury Member, [SIGGRAPH VR Village](http://s2017.siggraph.org/)
 * Reviewer, [Journal of Imaging](http://www.mdpi.com/journal/jimaging)
 * Reviewer, [Symmetry](http://www.mdpi.com/journal/symmetry)
+* Reviewer, [Remote Sensing](https://www.mdpi.com/journal/remotesensing)
 
 [//]: # (* Reviewer, Computers and Graphics (CAG) 2013, 2012 )
 [///]: # (* Reviewer, High Performance Graphics (HPG) 2012, 2011, 2009 )
