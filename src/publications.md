@@ -1,7 +1,7 @@
 ## Refereed Publications
 1.  [Jose Barreiros][jbarreiros], [Houston Claure][hclaure], [Bryan Peele][bpeele], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke], [Malte Jung][mjung], [Robert Shepherd][rshepherd];
 **Fluidic Elastomer Actuators for Haptic Interactions in Virtual Reality**,
-*IEEE Robotics and Automation Letters*,
+*IEEE Robotics and Automation Letters (RA-L)*,
 None, February, 2019. (to appear)
 [paper](None)
 1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
@@ -75,6 +75,14 @@ Boston, April, 2009.
 *Symposium on Application Specific Processors (SASP)*,
 Anaheim, June 8-9, 2008. **(Best paper award)**
 [paper](http://www.cs.utah.edu/~dkopta/papers/hwrt_sasp08.pdf)
+
+
+## Book Chapter
+1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
+**Improving Temporal Antialiasing with Adaptive Ray Tracing**,
+*Ray Tracing Gems*,
+March, 2019. (to appear)
+[paper](https://developer.nvidia.com/books/raytracing/raytracing_gems_preview)
 
 
 ## Technical Demos
@@ -174,7 +182,7 @@ July, 2011.
 1.  [Mona Jalal][mjalal], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Margrit Betke][mbetke];
 **Large-scale Synthetic Domain Randomized 6DoF Object Pose Estimation Dataset**,
 *New England Computer Vision Workshop*,
-Boston, November 26, 2018. (to appear)
+Boston, November 26, 2018.
 [paper](None)
 1.  [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Erik Brunvand][elb];
 **Grid-Based Ray Tracing for a Parallel Computing Architecture**,
