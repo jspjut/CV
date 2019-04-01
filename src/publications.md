@@ -2,7 +2,7 @@
 1.  [Jose Barreiros][jbarreiros], [Houston Claure][hclaure], [Bryan Peele][bpeele], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke], [Malte Jung][mjung], [Robert Shepherd][rshepherd];
 **Fluidic Elastomer Actuators for Haptic Interactions in Virtual Reality**,
 *IEEE Robotics and Automation Letters (RA-L)*,
-None, February, 2019. (to appear)
+None, February, 2019.
 [paper](None)
 1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
 **Adaptive Temporal Antialiasing**,
@@ -81,7 +81,7 @@ Anaheim, June 8-9, 2008. **(Best paper award)**
 1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
 **Improving Temporal Antialiasing with Adaptive Ray Tracing**,
 *Ray Tracing Gems*,
-March, 2019. (to appear)
+March, 2019.
 [paper](https://developer.nvidia.com/books/raytracing/raytracing_gems_preview)
 
 
@@ -239,7 +239,7 @@ August 9-10, 2008.
    [bpeele]: http://www.gnarlydesign.io/
    [bmacmurray]: https://orl.mae.cornell.edu/#people
    [oshapira]: http://omershapira.com/#all
-   [jbarreiros]: https://orl.mae.cornell.edu//#people
+   [jbarreiros]: https://www.josebarreiros.com
    [clarson]: https://chrislarson1.github.io/blog/
    [rknepper]: http://www.cs.cornell.edu/~rak/
    [mmcguire]: https://casual-effects.com/morgan/index.html
