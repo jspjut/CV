@@ -1,9 +1,14 @@
 ## Refereed Publications
+1.  [Mona Jalal][mjalal], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Margrit Betke][mbetke];
+**SIDOD: A Synthetic Image Dataset for 3D Object Pose Recognition with Distractors**,
+*Women in Computer Vision Workshop*,
+Long Beach, June 16, 2019. (to appear)
+[paper](None)
 1.  [Jose Barreiros][jbarreiros], [Houston Claure][hclaure], [Bryan Peele][bpeele], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke], [Malte Jung][mjung], [Robert Shepherd][rshepherd];
 **Fluidic Elastomer Actuators for Haptic Interactions in Virtual Reality**,
 *IEEE Robotics and Automation Letters (RA-L)*,
 None, February, 2019.
-[paper](None)
+[paper](https://ieeexplore.ieee.org/abstract/document/8581471)
 1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
 **Adaptive Temporal Antialiasing**,
 *High-Performance Graphics (HPG 2018)*,
@@ -179,11 +184,16 @@ July, 2011.
 
 
 ## Refereed Posters
+1.  [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Alexander Majercik][zmajercik], [Ben Boudaoud][bboudaoud], [Rachel Albert][ralbert], [David Luebke][dluebke];
+**Esports Arms Race: Latency and Refresh Rate for Competitive Gaming Tasks**,
+*Vision Science Society*,
+St. Pete Beach, May 17-22, 2019. (to appear)
+[paper](None)
 1.  [Mona Jalal][mjalal], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Margrit Betke][mbetke];
 **Large-scale Synthetic Domain Randomized 6DoF Object Pose Estimation Dataset**,
 *New England Computer Vision Workshop*,
 Boston, November 26, 2018.
-[paper](None)
+[paper](http://josef.spjut.me/pubs/jalal18_poster.pdf)
 1.  [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Erik Brunvand][elb];
 **Grid-Based Ray Tracing for a Parallel Computing Architecture**,
 *High Performance Graphics (HPG'09)*,
@@ -227,7 +237,7 @@ August 9-10, 2008.
    [dluebke]: http://luebke.us/
    [kaksit]: https://kaanaksit.com/
    [wlopes]: https://research.nvidia.com/users/ward-lopes
-   [jonghyunkim]: None
+   [jonghyunkim]: http://j-kim.kr/
    [apatney]: http://idav.ucdavis.edu/~anjul/
    [pshirley]: https://www.cs.utah.edu/~shirley/
    [scholewiak]: http://steven.cholewiak.com/
@@ -251,7 +261,7 @@ August 9-10, 2008.
    [dsheldon]: https://www.linkedin.com/in/david-sheldon-b3600339/
    [ssirowy]: https://www.linkedin.com/in/scott-sirowy/
    [rlysecky]: http://www2.engr.arizona.edu/~rlysecky/
-   [mparker]: None
+   [mparker]: https://www.linkedin.com/in/mike-parker-0a42943/
    [patriciaxu]: https://orl.mae.cornell.edu//#people
    [tgrant]: https://www.cs.utah.edu/~tgrant/
    [evasiou]: http://www.cs.utah.edu/~elvasiou/
@@ -270,3 +280,8 @@ August 9-10, 2008.
    [hclaure]: https://www.linkedin.com/in/houston-claure-33793771/
    [mjung]: http://mjung.infosci.cornell.edu/
    [mbetke]: http://www.cs.bu.edu/~betke/
+   [joohwankim]: http://www.kimjoohwan.com/
+   [youngmojeong]: http://www.youngmoj.com/
+   [mstengel]: https://scholar.google.com/citations?user=9_GCtwUAAAAJ
+   [ralbert]: http://www.rachelalbert.com/
+   [zmajercik]: https://research.nvidia.com/person/zander-majercik
