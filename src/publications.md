@@ -101,7 +101,7 @@ March, 2019.
 
 
 ## Technical Demos
-1.  [Jonghyun Kim][jonghyunkim];
+1.  [Jonghyun Kim][jonghyunkim], [Michael Stengel][mstengel], [Jui-Yi Wu][juiyiwu], [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Kaan Aksit][kaksit], [Rachel Albert][ralbert], [Trey Greer][tgreer], [Youngmo Jeong][youngmojeong], [Ward Lopes][wlopes], [Alexander Majercik][zmajercik], [Peter Shirley][pshirley], [Morgan McGuire][mmcguire], [David Luebke][dluebke];
 **Matching Visual Acuity & Prescription: Towards AR for Humans**,
 *SIGGRAPH Emerging Technologies*,
 Los Angeles, July 28 - August 1, 2019. (to appear)
@@ -305,3 +305,4 @@ August 9-10, 2008.
    [mstengel]: https://scholar.google.com/citations?user=9_GCtwUAAAAJ
    [ralbert]: http://www.rachelalbert.com/
    [zmajercik]: https://research.nvidia.com/person/zander-majercik
+   [juiyiwu]: https://www.linkedin.com/in/daronwu/
