@@ -1,9 +1,14 @@
 ## Refereed Publications
+1.  [Jonghyun Kim][jonghyunkim], [Youngmo Jeong][youngmojeong], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [Rachel Albert][ralbert], [Ward Lopes][wlopes], [Trey Greer][tgreer], [Ben Boudaoud][bboudaoud], [Alexander Majercik][zmajercik], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [David Luebke][dluebke];
+**Foveated AR: Dynamically-Foveated Augmented Reality Display**,
+*ACM SIGGRAPH Proceedings*,
+Los Angeles, July, 2019. (to appear)
+[paper](None)
 1.  [Mona Jalal][mjalal], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Margrit Betke][mbetke];
 **SIDOD: A Synthetic Image Dataset for 3D Object Pose Recognition with Distractors**,
 *Women in Computer Vision Workshop*,
 Long Beach, June 16, 2019. (to appear)
-[paper](None)
+[paper](https://research.nvidia.com/publication/2019-06_SIDOD%3A-A-Synthetic)
 1.  [Jose Barreiros][jbarreiros], [Houston Claure][hclaure], [Bryan Peele][bpeele], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke], [Malte Jung][mjung], [Robert Shepherd][rshepherd];
 **Fluidic Elastomer Actuators for Haptic Interactions in Virtual Reality**,
 *IEEE Robotics and Automation Letters (RA-L)*,
@@ -83,14 +88,24 @@ Anaheim, June 8-9, 2008. **(Best paper award)**
 
 
 ## Book Chapter
+1.  [Rahul Sathe][rsathe], [Holger Gruen][hgruen], [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Yury Uralsky][yyuralsky];
+**Adaptive Anti-Aliasing using Conservative Rasterization and GPU Ray Tracing**,
+*GPU Zen 2*,
+April, 2019.
+[paper](https://www.amazon.com/dp/179758314X)
 1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
 **Improving Temporal Antialiasing with Adaptive Ray Tracing**,
 *Ray Tracing Gems*,
 March, 2019.
-[paper](https://developer.nvidia.com/books/raytracing/raytracing_gems_preview)
+[paper](https://link.springer.com/content/pdf/10.1007%2F978-1-4842-4427-2_22.pdf)
 
 
 ## Technical Demos
+1.  [Jonghyun Kim][jonghyunkim];
+**Matching Visual Acuity & Prescription: Towards AR for Humans**,
+*SIGGRAPH Emerging Technologies*,
+Los Angeles, July 28 - August 1, 2019. (to appear)
+[paper](None)
 1.  [Kishore Rathinavel][krathinavel], [Praneeth Chakravarthula][pchakravarthula], [Kaan Aksit][kaksit], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Turner Whitted][jtw], [David Luebke][dluebke], [Henry Fuchs][hfuchs];
 **Steerable Application-Adaptive Near-Eye Displays**,
 *SIGGRAPH Emerging Technologies*,
@@ -114,10 +129,15 @@ San Jose, May 9 - 11, 2017.
 
 
 ## Conference Talks and Courses
+1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud];
+**Foveated Displays: Toward Classification of the Emerging Field**,
+*SIGGRAPH Talk*,
+Los Angeles, July 28-31, 2019. (to appear)
+[paper](None)
 1.  **[Josef Spjut][jspjut]**;
 **The Augmented Frontier: Challenges for Near Eye Display Computing**,
 *[AR In Action](http://arinaction.org/)*,
-January 16-17, 2018.
+Boston, January 16-17, 2018.
 [paper](http://josef.spjut.me/pubs/spjutARIA2018.pdf)
 1.  [Bryan Peele][bpeele], [Benjamin Mac Murray][bmacmurray], [Robert Shepherd][rshepherd], [Jose Barreiros][jbarreiros], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke];
 **Stretchable Transducers for Kinesthetic Interactions in Virtual Reality**,
