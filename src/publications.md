@@ -6,7 +6,7 @@ Los Angeles, July, 2019. (to appear)
 [paper](None)
 1.  [Mona Jalal][mjalal], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Margrit Betke][mbetke];
 **SIDOD: A Synthetic Image Dataset for 3D Object Pose Recognition with Distractors**,
-*Women in Computer Vision Workshop*,
+*The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*,
 Long Beach, June 16, 2019. (to appear)
 [paper](https://research.nvidia.com/publication/2019-06_SIDOD%3A-A-Synthetic)
 1.  [Jose Barreiros][jbarreiros], [Houston Claure][hclaure], [Bryan Peele][bpeele], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke], [Malte Jung][mjung], [Robert Shepherd][rshepherd];
@@ -161,6 +161,11 @@ Los Angeles, August 10, 2015. **(Studio Course)**
 
 
 ## Technical Reports
+1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Jonghyun Kim][jonghyunkim], [Trey Greer][tgreer], [Rachel Albert][ralbert], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [David Luebke][dluebke];
+**Toward Standardized Classification of Foveated Displays**,
+*Tech Report*,
+May 3, 2019.
+[paper](https://arxiv.org/pdf/1905.06229)
 1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Ian Mallett][imallett], [Cem Yuksel][cyuksel];
 **SimTrax: Simulation Infrastructure for Exploring Thousands of Cores**,
 *Tech Report*,
@@ -207,7 +212,7 @@ July, 2011.
 1.  [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Alexander Majercik][zmajercik], [Ben Boudaoud][bboudaoud], [Rachel Albert][ralbert], [David Luebke][dluebke];
 **Esports Arms Race: Latency and Refresh Rate for Competitive Gaming Tasks**,
 *Vision Science Society*,
-St. Pete Beach, May 17-22, 2019. (to appear)
+St. Pete Beach, May 17-22, 2019.
 [paper](None)
 1.  [Mona Jalal][mjalal], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Margrit Betke][mbetke];
 **Large-scale Synthetic Domain Randomized 6DoF Object Pose Estimation Dataset**,
