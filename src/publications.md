@@ -4,6 +4,12 @@
 *ACM SIGGRAPH Proceedings*,
 Los Angeles, July, 2019. (to appear)
 [paper](None)
+1.  [Pontus Andersson][pandersson], [Jim Nilsson][jnilsson], [Marco Salvi][msalvi], **[Josef Spjut][jspjut]**, [Tomas Akenine-Möller][takeninemoller];
+**Temporally Dense Ray Tracing**,
+*High Performance Graphics*,
+Strasbourg, July 8, 2019. (to appear)
+[paper](https://research.nvidia.com/sites/default/files/pubs/2019-07_Temporally-Dense-Ray/temporally-dense-ray-tracing.pdf)
+[webpage](https://240hz.org/)
 1.  [Mona Jalal][mjalal], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Margrit Betke][mbetke];
 **SIDOD: A Synthetic Image Dataset for 3D Object Pose Recognition with Distractors**,
 *The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*,
@@ -213,7 +219,7 @@ July, 2011.
 **Esports Arms Race: Latency and Refresh Rate for Competitive Gaming Tasks**,
 *Vision Science Society*,
 St. Pete Beach, May 17-22, 2019.
-[paper](None)
+[paper](https://www.visionsciences.org/programs/VSS_2019_Abstracts.pdf)
 1.  [Mona Jalal][mjalal], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Margrit Betke][mbetke];
 **Large-scale Synthetic Domain Randomized 6DoF Object Pose Estimation Dataset**,
 *New England Computer Vision Workshop*,
@@ -311,3 +317,7 @@ August 9-10, 2008.
    [ralbert]: http://www.rachelalbert.com/
    [zmajercik]: https://research.nvidia.com/person/zander-majercik
    [juiyiwu]: https://www.linkedin.com/in/daronwu/
+   [pandersson]: https://www.linkedin.com/in/-pontusan-/
+   [jnilsson]: https://www.linkedin.com/in/jimnilsson/
+   [msalvi]: https://www.linkedin.com/in/marcosalvi/
+   [takeninemoller]: http://cs.lth.se/tomas-akenine-moller/
