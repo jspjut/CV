@@ -3,18 +3,18 @@
 **Foveated AR: Dynamically-Foveated Augmented Reality Display**,
 *ACM SIGGRAPH Proceedings*,
 Los Angeles, July, 2019. (to appear)
-[paper](None)
+[paper](https://research.nvidia.com/sites/default/files/pubs/2019-07_Foveated-AR%3A-Dynamically-Foveated//Foveated_AR___v2%20%2815%29.pdf)
 1.  [Pontus Andersson][pandersson], [Jim Nilsson][jnilsson], [Marco Salvi][msalvi], **[Josef Spjut][jspjut]**, [Tomas Akenine-Möller][takeninemoller];
 **Temporally Dense Ray Tracing**,
 *High Performance Graphics*,
-Strasbourg, July 8, 2019. (to appear)
+Strasbourg, July 8, 2019.
 [paper](https://research.nvidia.com/sites/default/files/pubs/2019-07_Temporally-Dense-Ray/temporally-dense-ray-tracing.pdf)
 [webpage](https://240hz.org/)
 1.  [Mona Jalal][mjalal], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Margrit Betke][mbetke];
 **SIDOD: A Synthetic Image Dataset for 3D Object Pose Recognition with Distractors**,
 *The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*,
-Long Beach, June 16, 2019. (to appear)
-[paper](https://research.nvidia.com/publication/2019-06_SIDOD%3A-A-Synthetic)
+Long Beach, June 16, 2019.
+[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/WiCV/Jalal_SIDOD_A_Synthetic_Image_Dataset_for_3D_Object_Pose_Recognition_CVPRW_2019_paper.pdf)
 1.  [Jose Barreiros][jbarreiros], [Houston Claure][hclaure], [Bryan Peele][bpeele], [Omer Shapira][oshapira], **[Josef Spjut][jspjut]**, [David Luebke][dluebke], [Malte Jung][mjung], [Robert Shepherd][rshepherd];
 **Fluidic Elastomer Actuators for Haptic Interactions in Virtual Reality**,
 *IEEE Robotics and Automation Letters (RA-L)*,
@@ -111,7 +111,7 @@ March, 2019.
 **Matching Visual Acuity & Prescription: Towards AR for Humans**,
 *SIGGRAPH Emerging Technologies*,
 Los Angeles, July 28 - August 1, 2019. (to appear)
-[paper](None)
+[paper](https://research.nvidia.com/sites/default/files/pubs/2019-07_Matching-Prescription-%26//2019_Etech_submission%20%2815%29.pdf)
 1.  [Kishore Rathinavel][krathinavel], [Praneeth Chakravarthula][pchakravarthula], [Kaan Aksit][kaksit], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Turner Whitted][jtw], [David Luebke][dluebke], [Henry Fuchs][hfuchs];
 **Steerable Application-Adaptive Near-Eye Displays**,
 *SIGGRAPH Emerging Technologies*,
