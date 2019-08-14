@@ -2,7 +2,7 @@
 1.  [Jonghyun Kim][jonghyunkim], [Youngmo Jeong][youngmojeong], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [Rachel Albert][ralbert], [Ward Lopes][wlopes], [Trey Greer][tgreer], [Ben Boudaoud][bboudaoud], [Alexander Majercik][zmajercik], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [David Luebke][dluebke];
 **Foveated AR: Dynamically-Foveated Augmented Reality Display**,
 *ACM SIGGRAPH Proceedings*,
-Los Angeles, July, 2019. (to appear)
+Los Angeles, July, 2019.
 [paper](https://research.nvidia.com/sites/default/files/pubs/2019-07_Foveated-AR%3A-Dynamically-Foveated//Foveated_AR___v2%20%2815%29.pdf)
 1.  [Pontus Andersson][pandersson], [Jim Nilsson][jnilsson], [Marco Salvi][msalvi], **[Josef Spjut][jspjut]**, [Tomas Akenine-Möller][takeninemoller];
 **Temporally Dense Ray Tracing**,
@@ -110,7 +110,7 @@ March, 2019.
 1.  [Jonghyun Kim][jonghyunkim], [Michael Stengel][mstengel], [Jui-Yi Wu][juiyiwu], [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Kaan Aksit][kaksit], [Rachel Albert][ralbert], [Trey Greer][tgreer], [Youngmo Jeong][youngmojeong], [Ward Lopes][wlopes], [Alexander Majercik][zmajercik], [Peter Shirley][pshirley], [Morgan McGuire][mmcguire], [David Luebke][dluebke];
 **Matching Visual Acuity & Prescription: Towards AR for Humans**,
 *SIGGRAPH Emerging Technologies*,
-Los Angeles, July 28 - August 1, 2019. (to appear)
+Los Angeles, July 28 - August 1, 2019.
 [paper](https://research.nvidia.com/sites/default/files/pubs/2019-07_Matching-Prescription-%26//2019_Etech_submission%20%2815%29.pdf)
 1.  [Kishore Rathinavel][krathinavel], [Praneeth Chakravarthula][pchakravarthula], [Kaan Aksit][kaksit], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Turner Whitted][jtw], [David Luebke][dluebke], [Henry Fuchs][hfuchs];
 **Steerable Application-Adaptive Near-Eye Displays**,
@@ -138,8 +138,9 @@ San Jose, May 9 - 11, 2017.
 1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud];
 **Foveated Displays: Toward Classification of the Emerging Field**,
 *SIGGRAPH Talk*,
-Los Angeles, July 28-31, 2019. (to appear)
-[paper](None)
+Los Angeles, July 28-31, 2019.
+[paper](https://doi.org/10.1145/3306307.3328145)
+[slides](https://drive.google.com/file/d/1-2-QUoRtV2AUTg3we-88sn8-D797ir8H/view?usp=sharing)
 1.  **[Josef Spjut][jspjut]**;
 **The Augmented Frontier: Challenges for Near Eye Display Computing**,
 *[AR In Action](http://arinaction.org/)*,
