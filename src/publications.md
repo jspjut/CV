@@ -1,4 +1,9 @@
 ## Refereed Publications
+1.  [Chris Larson][clarson], **[Josef Spjut][jspjut]**, [Ross Knepper][rknepper], [Robert Shepherd][rshepherd];
+**A deformable interface for human touch recognition using stretchable carbon nanotube dielectric elastomer sensors and deep neural networks**,
+*Soft Robotics*,
+October 4, 2019.
+[paper](https://www.liebertpub.com/doi/pdf/10.1089/soro.2018.0086)
 1.  [Jonghyun Kim][jonghyunkim], [Youngmo Jeong][youngmojeong], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [Rachel Albert][ralbert], [Ward Lopes][wlopes], [Trey Greer][tgreer], [Ben Boudaoud][bboudaoud], [Alexander Majercik][zmajercik], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [David Luebke][dluebke];
 **Foveated AR: Dynamically-Foveated Augmented Reality Display**,
 *ACM SIGGRAPH Proceedings*,
@@ -216,6 +221,11 @@ July, 2011.
 
 
 ## Refereed Posters
+1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Kamran Binaee][kbinaee], [Alexander Majercik][zmajercik], [Morgan McGuire][mmcguire], [Joohwan Kim][joohwankim];
+**FirstPersonScience: Quantifying Psychophysics for First Person Shooter Tasks**,
+*UCI Esports Conference*,
+Irvine, October 10-12, 2019. (to appear)
+[paper](http://josef.spjut.me/pubs/spjut19esc_paper.pdf)
 1.  [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Alexander Majercik][zmajercik], [Ben Boudaoud][bboudaoud], [Rachel Albert][ralbert], [David Luebke][dluebke];
 **Esports Arms Race: Latency and Refresh Rate for Competitive Gaming Tasks**,
 *Vision Science Society*,
@@ -322,3 +332,4 @@ August 9-10, 2008.
    [jnilsson]: https://www.linkedin.com/in/jimnilsson/
    [msalvi]: https://www.linkedin.com/in/marcosalvi/
    [takeninemoller]: http://cs.lth.se/tomas-akenine-moller/
+   [kbinaee]: https://sites.google.com/g.rit.edu/kamranbinaee/home
