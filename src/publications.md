@@ -1,4 +1,14 @@
 ## Refereed Publications
+1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Jonghyun Kim][jonghyunkim], [Trey Greer][tgreer], [Rachel Albert][ralbert], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [David Luebke][dluebke];
+**Toward Standardized Classification of Foveated Displays**,
+*IEEE Transactions on Visualization and Computer Graphics*,
+March 22, 2020. (to appear)
+[paper](https://ieeexplore.ieee.org/document/8999630)
+1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Kamran Binaee][kbinaee], [Jonghyun Kim][jonghyunkim], [Alexander Majercik][zmajercik], [Morgan McGuire][mmcguire], [David Luebke][dluebke], [Joohwan Kim][joohwankim];
+**Latency of 30 ms Benefits First Person Targeting Tasks More Than Refresh Rate Above 60 Hz**,
+*SIGGRAPH Asia Technical Briefs*,
+November 17-20, 2019.
+[paper](https://research.nvidia.com/publication/2019-11_Latency-of-30)
 1.  [Chris Larson][clarson], **[Josef Spjut][jspjut]**, [Ross Knepper][rknepper], [Robert Shepherd][rshepherd];
 **A deformable interface for human touch recognition using stretchable carbon nanotube dielectric elastomer sensors and deep neural networks**,
 *Soft Robotics*,
@@ -224,7 +234,7 @@ July, 2011.
 1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Kamran Binaee][kbinaee], [Alexander Majercik][zmajercik], [Morgan McGuire][mmcguire], [Joohwan Kim][joohwankim];
 **FirstPersonScience: Quantifying Psychophysics for First Person Shooter Tasks**,
 *UCI Esports Conference*,
-Irvine, October 10-12, 2019. (to appear)
+Irvine, October 10-12, 2019.
 [paper](http://josef.spjut.me/pubs/spjut19esc_paper.pdf)
 1.  [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Alexander Majercik][zmajercik], [Ben Boudaoud][bboudaoud], [Rachel Albert][ralbert], [David Luebke][dluebke];
 **Esports Arms Race: Latency and Refresh Rate for Competitive Gaming Tasks**,
@@ -292,7 +302,7 @@ August 9-10, 2008.
    [bmacmurray]: https://orl.mae.cornell.edu/#people
    [oshapira]: http://omershapira.com/#all
    [jbarreiros]: https://www.josebarreiros.com
-   [clarson]: https://chrislarson1.github.io/blog/
+   [clarson]: http://www.chrislarson.io
    [rknepper]: http://www.cs.cornell.edu/~rak/
    [mmcguire]: https://casual-effects.com/morgan/index.html
    [balfieri]: None
