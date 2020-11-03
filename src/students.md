@@ -22,25 +22,18 @@
 
 ## Clinic Projects Advised
 
-* Clinic for Dart Neuroscience, 2014-2015.
-Fabiha Hannan, Guillaume Legrain, Maggie Rabasca, Zachary Vickland,
-Tiancheng Yang, Josef Spjut, Philip Cheung, John McNeil. 
-* Clinic for Ixia, 2014-2015.
-Olivier Cheng, Stephen Ibanez, Amy Ngai, Joshua Sanz, Avi Thaker,
-Josef Spjut, Alon Regev;.
-* USB 3.0 to Multi-Protocol Interface Adapter, Clinic
-Report for Rambus Incorporate, Harvey Mudd College, 183 pages, May
-2014.
-Antoine Billig, Chanel Chang, Austin Chen, Obosa Obazuaye, Jeffrey
-Steele, Sean Velazquez, Josef Spjut, Pradeep Batra, Adrian Torres,
-Julia Cline.
-* Multiplicative Based Division, Clinic Report for Intel Corp,
+* Design and Implementation of a Memory Testing Apparatus, Clinic Report for Dart Neuroscience, 2014-2015.
+Harvey Mudd College, 116 pages. May 2015. 
+Fabiha Hannan, Guillaume Legrain, Maggie Rabasca, Zachary Vickland, Tiancheng Yang, Josef Spjut, Philip Cheung, John McNeil. 
+* Computer Network Testing, Clinic Report for Ixia, 2014-2015.
+Harvey Mudd College, 48 pages. May 2015.
+Olivier Cheng, Stephen Ibanez, Amy Ngai, Joshua Sanz, Avi Thaker, Josef Spjut, Alon Regev;.
+* USB 3.0 to Multi-Protocol Interface Adapter, Clinic Report for Rambus Incorporate, 2013-2014.
+Harvey Mudd College, 183 pages, May 2014.
+Antoine Billig, Chanel Chang, Austin Chen, Obosa Obazuaye, Jeffrey Steele, Sean Velazquez, Josef Spjut, Pradeep Batra, Adrian Torres, Julia Cline.
+* Multiplicative Based Division, Clinic Report for Intel Corp, 2012-2013.
 Harvey Mudd College, 117 pages, May 2013.
-Dylan Stow, Carl Pearson, Jeffrey Steele, Shreyasha Paudel, Adam
-Parower, Gurchetan Singh, Dong-hyeon Park, Josef Spjut, Warren
-Furguson.
-* Immersive Audio Game Development Kit Clinic Report for Texas
-Instruments, Harvey Mudd College, 110 pages, May 2013.
-Allison Card, Kacyn Fujii, Hannah Kastein, Paula Ning, Matthew
-Tambara, Stephanie Fawaz, Josef Spjut, Sourabh Ravindran, Nitish
-Murthy.
+Dylan Stow, Carl Pearson, Jeffrey Steele, Shreyasha Paudel, Adam Parower, Gurchetan Singh, Dong-hyeon Park, Josef Spjut, Warren Furguson.
+* Immersive Audio Game Development Kit Clinic Report for Texas Instruments, 2012-2013.
+Harvey Mudd College, 110 pages, May 2013.
+Allison Card, Kacyn Fujii, Hannah Kastein, Paula Ning, Matthew Tambara, Stephanie Fawaz, Josef Spjut, Sourabh Ravindran, Nitish Murthy.
