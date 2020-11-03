@@ -1,5 +1,5 @@
 ## Research Interests
-**Computer Graphics:** Esports, Ray Tracing, Augmented Reality, Video Games
+**Computer Graphics:** Esports, Ray Tracing, Video Games, Augmented Reality
 
-**Computer Architecture:** GPUs, Application Specific Architectures, Embedded Systems
+**Computer Architecture:** GPUs, Displays, Application Specific Architectures, Embedded Systems
 

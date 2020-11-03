@@ -6,7 +6,8 @@ Durham, NC, USA
 *Research Scientist*
 June 2015 - Present
 
-Augmented reality and esports research.
+Augmented reality and esports research leading to over 25 publications including many patents. 
+My work was influential in launching the NVIDIA Reflex esports performance platform.
 
 
 **Harvey Mudd College**
@@ -15,9 +16,9 @@ Claremont, CA, USA
 *Visiting Professor*
 July 2012 - June 2015
 
-Taught courses in Digital Design, Parallel Computer Architecture, and
-Microprocessor and Embedded System Design. Advised research students
-in the area of computer architecture.
+Taught courses in Digital Design, Parallel Computer Architecture,
+Microprocessor and Embedded System Design, and Video Game Console Design. 
+Advised research students in the area of computer architecture.
 
 
 **NVIDIA**
@@ -54,4 +55,4 @@ June 2005 - March 2006
 
 Analyzed the performance of soft-core microprocessors on Xilinx FPGAs
 to develop tools for increased performance with reduced development
-effort. Advisor: Dr. Frank Vahid.
+effort. *Advisor*: Dr. Frank Vahid.
