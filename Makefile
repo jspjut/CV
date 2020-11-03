@@ -33,7 +33,7 @@ $(CVNAME).html: $(ORDEREDHTML) src/cv.md
 
 # Convert to pdf from the html
 $(CVNAME).pdf: $(CVNAME).html src/cv.tex
-	pandoc -s -H src/cv.tex $< -o $@
+	pandoc -s -V colorlinks -H src/cv.tex $< -o $@
 
 src/%.html: src/%.md
 	pandoc -t html5 -o $@ $<
