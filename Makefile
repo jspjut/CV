@@ -1,8 +1,9 @@
 # make deploy to send to website build path
 
 CVNAME=spjut
+RNAME=spjut-resume
 
-all: $(CVNAME).html $(CVNAME).pdf
+all: $(CVNAME).html $(CVNAME).pdf $(RNAME).pdf
 
 # Standard pick everything alphabetically CV
 SRC=$(wildcard src/*.md)
@@ -25,6 +26,15 @@ ORDEREDHTML=src/cv.html \
 #	src/references.html \
 	src/skills.html \
 
+# Resume sections
+RESUMEHTML=src/cv.html \
+	src/description.html \
+	src/research.html \
+	src/education.html\
+	src/jobs.html \
+	src/products.html \
+	src/games.html \
+
 raw.html: $(HTML) src/cv.md
 	pandoc -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(HTML))) src/cv.md
 
@@ -34,6 +44,12 @@ $(CVNAME).html: $(ORDEREDHTML) src/cv.md
 
 # Convert to pdf from the html
 $(CVNAME).pdf: $(CVNAME).html src/cv.tex
+	pandoc -s -V colorlinks -H src/cv.tex $< -o $@
+
+$(RNAME).html: $(RESUMEHTML) src/cv.md
+	pandoc -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(RESUMEHTML))) src/cv.md
+
+$(RNAME).pdf: $(RNAME).html src/cv.tex
 	pandoc -s -V colorlinks -H src/cv.tex $< -o $@
 
 src/%.html: src/%.md
