@@ -31,8 +31,9 @@ $(CVNAME).html: $(ORDEREDHTML) src/cv.md
 	pandoc -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(ORDEREDHTML))) src/cv.md
 #pandoc -s -H src/cv.css -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(HTML))) src/cv.md
 
-$(CVNAME).pdf: $(CVNAME).html
-	pandoc -H src/cv.tex $< -o $@
+# Convert to pdf from the html
+$(CVNAME).pdf: $(CVNAME).html src/cv.tex
+	pandoc -s -H src/cv.tex $< -o $@
 
 src/%.html: src/%.md
 	pandoc -t html5 -o $@ $<

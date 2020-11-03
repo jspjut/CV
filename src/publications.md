@@ -1,8 +1,13 @@
 ## Refereed Publications
+1.  [Joohwan Kim][joohwankim], [Pyarelal Knowles][pknowles], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Morgan McGuire][mmcguire];
+**Post-Render Warp with Late Input Sampling Improves Aiming Under High Latency Conditions**,
+*Proceedings of the ACM on Computer Graphics and Interactive Techniques*,
+July 13-16, 2020. (to appear)
+[paper](http://josef.spjut.me/pubs/kim_hpg2020_author.pdf)
 1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Jonghyun Kim][jonghyunkim], [Trey Greer][tgreer], [Rachel Albert][ralbert], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [David Luebke][dluebke];
 **Toward Standardized Classification of Foveated Displays**,
 *IEEE Transactions on Visualization and Computer Graphics*,
-March 22, 2020. (to appear)
+March 22, 2020.
 [paper](https://ieeexplore.ieee.org/document/8999630)
 1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Kamran Binaee][kbinaee], [Jonghyun Kim][jonghyunkim], [Alexander Majercik][zmajercik], [Morgan McGuire][mmcguire], [David Luebke][dluebke], [Joohwan Kim][joohwankim];
 **Latency of 30 ms Benefits First Person Targeting Tasks More Than Refresh Rate Above 60 Hz**,
@@ -343,3 +348,4 @@ August 9-10, 2008.
    [msalvi]: https://www.linkedin.com/in/marcosalvi/
    [takeninemoller]: http://cs.lth.se/tomas-akenine-moller/
    [kbinaee]: https://sites.google.com/g.rit.edu/kamranbinaee/home
+   [pknowles]: https://www.linkedin.com/in/pyarelal-knowles-a82a7844

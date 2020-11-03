@@ -1,4 +1,4 @@
-##Education
+## Education
 
 **University of Utah**
 Ph.D. Computer Engineering 2013

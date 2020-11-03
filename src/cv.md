@@ -1,3 +1,7 @@
+---
+pagetitle: Josef B. Spjut - CV
+compact-title: true
+---
 # Josef B. Spjut
 
 * [josef.spjut@gmail.com](mailto:josef.spjut@gmail.com) (preferred method of contact)
