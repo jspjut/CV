@@ -15,6 +15,7 @@ ORDEREDHTML=src/cv.html \
 	src/education.html\
 	src/jobs.html \
 	src/publications.html \
+	src/products.html \
 	src/students.html \
 	src/funding.html \
 	src/honors.html \
