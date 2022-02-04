@@ -2,9 +2,14 @@
 
 * Member, [IEEE](http://ieee.org)
 * Member, [ACM](http://acm.org)
+* Paper Chair, [High Performance Graphics](https://www.highperformancegraphics.org/2022/)
+* Program Chair, [High Performance Graphics](https://www.highperformancegraphics.org/2021/)
+* IPC, [High Performance Graphics](https://www.highperformancegraphics.org/2020/)
+* Jury Member, SIGGRAPH General Submissions [2019](https://s2019.siggraph.org/), [2021](https://s2021.siggraph.org/)
 * Reviewer, [SIGGRAPH General Submissions and VR Village](http://s2017.siggraph.org/)
 * Jury Member, [SIGGRAPH VR Village](http://s2017.siggraph.org/)
-* Co-organizer, User Interactions for Building Knowledge Workshop (UIBK 2019) co-located with IUI
+* Organizer, [Esports and High-Performance HCI Workshop](https://ehphci.org/) at CHI 2021
+* Co-organizer, [User Interactions for Building Knowledge Workshop (UIBK 2019)](https://dl.acm.org/doi/10.1145/3308557.3313122) at IUI
 * Reviewer, [Computers and Graphics (CAG)](https://www.journals.elsevier.com/computers-and-graphics/)
 * Reviewer, [High Performance Graphics (HPG)](http://www.highperformancegraphics.org/)
 * Reviewer, [Transactions on Circuits and Systems (TCAS)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919)
