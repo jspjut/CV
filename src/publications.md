@@ -79,6 +79,9 @@
 
 
 ## Book Chapter
+1.  **[Josef Spjut][jspjut]**, [Michael Vance][mvance];
+**Part VI: Performance**, *Ray Tracing Gems II*, August, 2021.
+[paper](https://link.springer.com/content/pdf/bfm%3A978-1-4842-7185-8%2F6%2F1.pdf)
 1.  [Rahul Sathe][rsathe], [Holger Gruen][hgruen], [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Yury Uralsky][yyuralsky];
 **Adaptive Anti-Aliasing using Conservative Rasterization and GPU Ray Tracing**, *GPU Zen 2*, April, 2019.
 [paper](https://www.amazon.com/dp/179758314X)
@@ -320,3 +323,4 @@
    [cmcgee]: https://www.researchgate.net/profile/Caitlin-Mcgee
    [aissa]: https://www.linkedin.com/in/amine-issa-ph-d-20839619/
    [wmackey]: http://wmackey.com/
+   [mvance]: https://www.linkedin.com/in/michael-vance-56a127a/
