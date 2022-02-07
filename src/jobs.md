@@ -6,7 +6,7 @@ Durham, NC, USA
 *Research Scientist*
 June 2015 - Present
 
-Augmented reality and esports research leading to over 25 publications including many patents. 
+Augmented reality and esports research leading to over 35 publications including many patents. 
 My work was influential in launching the [NVIDIA Reflex esports performance platform](https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/),
 the [RTXGI SDK](https://developer.nvidia.com/rtxgi), 
 the LDAT and [Reflex Latency Analyzer](https://www.nvidia.com/en-us/geforce/news/reflex-latency-analyzer-360hz-g-sync-monitors/) shipping in many G-SYNC monitors, 
