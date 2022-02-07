@@ -1,4 +1,7 @@
 ## Refereed Publications
+1.  [Ekta Prashnani][eprashnani], [Orazio Gallo][ogallo], [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Pradeep Sen][psen], [Iuri Frosio][ifrosio];
+**Noise-Aware Saliency Prediction for Videos with Incomplete Gaze Data**, *The British Machine Vision Conference*, November 22, 2021.
+[paper](https://arxiv.org/pdf/2104.08038)
 1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Joohwan Kim][joohwankim];
 **A Case Study of First Person Aiming at Low Latency for Esports**, *Esports and High-Performance Human-Computer Interaction Workshop*, May 8, 2021.
 [paper](https://osf.io/nu9p3/)
@@ -17,7 +20,7 @@
 1.  [Chris Larson][clarson], **[Josef Spjut][jspjut]**, [Ross Knepper][rknepper], [Robert Shepherd][rshepherd];
 **A deformable interface for human touch recognition using stretchable carbon nanotube dielectric elastomer sensors and deep neural networks**, *Soft Robotics*, October 4, 2019.
 [paper](https://www.liebertpub.com/doi/pdf/10.1089/soro.2018.0086)
-1.  [Jonghyun Kim][jonghyunkim], [Youngmo Jeong][youngmojeong], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [Rachel Albert][ralbert], [Ward Lopes][wlopes], [Trey Greer][tgreer], [Ben Boudaoud][bboudaoud], [Alexander Majercik][zmajercik], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [David Luebke][dluebke];
+1.  [Jonghyun Kim][jonghyunkim], [Youngmo Jeong][youngmojeong], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [Rachel Albert][ralbert], [Ben Boudaoud][bboudaoud], [Trey Greer][tgreer], [Joohwan Kim][joohwankim], [Ward Lopes][wlopes], [Alexander Majercik][zmajercik], [Peter Shirley][pshirley], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [David Luebke][dluebke];
 **Foveated AR: Dynamically-Foveated Augmented Reality Display**, *ACM SIGGRAPH Proceedings*, Los Angeles, July, 2019.
 [paper](https://research.nvidia.com/sites/default/files/pubs/2019-07_Foveated-AR%3A-Dynamically-Foveated//Foveated_AR___v2%20%2815%29.pdf)
 1.  [Pontus Andersson][pandersson], [Jim Nilsson][jnilsson], [Marco Salvi][msalvi], **[Josef Spjut][jspjut]**, [Tomas Akenine-Möller][takeninemoller];
@@ -50,10 +53,10 @@
 [paper](http://www.cs.utah.edu/~dkopta/papers/hwrt_hpg13.pdf)
 1.  [Daniel Kopta][dkopta], [Thiago Ize][tize], **[Josef Spjut][jspjut]**, [Erik Brunvand][elb], [Al Davis][ald], [Andrew Kensler][aek];
 **Fast, Effective BVH Updates for Animated Scenes**, *ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D 2012)*, Irvine, March, 2012.
-[paper](http://www.cs.utah.edu/~thiago/papers/rotations.pdf)
+[paper](http://josef.spjut.me/pubs/kopta12.pdf)
 1.  **[Josef Spjut][jspjut]**, [Daniel Kopta][dkopta], [Erik Brunvand][elb], [Al Davis][ald];
 **A Mobile Accelerator Architecture for Ray Tracing**, *3rd Workshop on SoCs, Heterogeneous Architectures and Workloads (SHAW-3)*, New Orleans, February, 2012.
-[paper](http://www.cs.utah.edu/~sjosef/papers/spjut-shaw12-final.pdf)
+[paper](http://josef.spjut.me/pubs/spjut12.pdf)
 [slides](http://www.cs.utah.edu/~sjosef/slides/spjut-shaw12-slides.pdf)
 1.  [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Al Davis][ald], [Erik Brunvand][elb];
 **Efficient MIMD Architectures for High-Performance Ray Tracing**, *IEEE International Conference on Computer Design (ICCD 2010)*, Amsterdam, October, 2010.
@@ -86,7 +89,7 @@
 
 ## Technical Demos
 1.  [Ben Boudaoud][bboudaoud], [Pyarelal Knowles][pknowles], [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**;
-**Gaming at Warp Speed: Improving Aiming with Late Warp**, *SIGGRAPH Emerging Technologies*, online, August 9-13, 2021. (to appear)
+**Gaming at Warp Speed: Improving Aiming with Late Warp**, *SIGGRAPH Emerging Technologies*, online, August 9-13, 2021.
 [paper](https://research.nvidia.com/publication/2021-08_Gaming-at-Warp)
 1.  [Jonghyun Kim][jonghyunkim], [Michael Stengel][mstengel], [Jui-Yi Wu][juiyiwu], [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Kaan Aksit][kaksit], [Rachel Albert][ralbert], [Trey Greer][tgreer], [Youngmo Jeong][youngmojeong], [Ward Lopes][wlopes], [Alexander Majercik][zmajercik], [Peter Shirley][pshirley], [Morgan McGuire][mmcguire], [David Luebke][dluebke];
 **Matching Visual Acuity & Prescription: Towards AR for Humans**, *SIGGRAPH Emerging Technologies*, Los Angeles, July 28 - August 1, 2019.
@@ -106,6 +109,9 @@
 
 
 ## Conference Talks and Courses
+1.  [Benjamin Watson][bwatson], **[Josef Spjut][jspjut]**, [Caitlin McGee][cmcgee], [Amine Issa][aissa], [Wayne Mackey][wmackey];
+**Esports as a Driving Problem in Computer Graphics**, *SIGGRAPH Panel*, Online, August 9-13, 2021.
+[paper](http://josef.spjut.me/pubs/watson21.pdf)
 1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud];
 **Foveated Displays: Toward Classification of the Emerging Field**, *SIGGRAPH Talk*, Los Angeles, July 28-31, 2019.
 [paper](https://doi.org/10.1145/3306307.3328145)
@@ -129,20 +135,29 @@
 
 
 ## Patents
-1.  [Pyarelal Knowles][pknowles], [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Kamran Binaee][kbinaee], [Joohwan Kim][joohwankim], [Harish Vutukuru][hvutukuru];
-**Hardware acceleration and event decisions for late latch and warp in interactive computer products**, 2021. (to appear) **pending**
-[paper](https://patents.google.com/patent/US20210106912A1/en)
-1.  [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Iuri Frosio][ifrosio], [Orazio Gallo][ogallo], [Ekta Prashnani][eprashnani];
-**Gaze determination using one or more neural networks**, 2021. (to appear) **Pending**
-[paper](https://patents.google.com/patent/US20210132688A1/en)
-1.  [Pontus Andersson][pandersson], [Tomas Akenine-Möller][takeninemoller], [Jim Nilsson][jnilsson], [Marco Salvi][msalvi], **[Josef Spjut][jspjut]**;
-**Reconstruction for temporally dense ray trace rendering**, 2021. (to appear) **Pending**
-[paper](https://patents.google.com/patent/US20200312010A1/en)
-1.  [Holger Gruen][hgruen], [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
-**Adding greater realism to a computer-generated image by smoothing jagged edges within the image in an efficient manner**, 2021. (to appear) **Pending**
-[paper](https://patents.google.com/patent/US20190318455A1/en)
 1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Morgan McGuire][mmcguire], [Rahul Sathe][rsathe];
 **Adding greater realism to a computer-generated image by smoothing jagged edges**, 2021. (to appear) **Pending**
+[paper](https://patents.google.com/patent/US20210398253A1/en)
+1.  [Joohwan Kim][joohwankim], [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Seth Schneider][sschneider], [Rouslan Dimitrov][rdimitrov], [Lars Nordskog][lnordskog], [Cody Robson][crobson], [Keith Li][keithli], [Gerrit Slavenburg][gslavenburg], [Tom Verbeure][tverbeure];
+**System-latency-aware display device**, 2022. (to appear) **Pending**
+[paper](https://patents.google.com/patent/US20210243101A1/en)
+1.  [Jonghyun Kim][jonghyunkim], [Ben Boudaoud][bboudaoud], [Michael Stengel][mstengel], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire];
+**Modular prescription augmented reality display**, 2022. (to appear) **Pending**
+[paper](https://patents.google.com/patent/US20210181533A1/en)
+1.  [Pyarelal Knowles][pknowles], [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Kamran Binaee][kbinaee], [Joohwan Kim][joohwankim], [Harish Vutukuru][hvutukuru];
+**Hardware acceleration and event decisions for late latch and warp in interactive computer products**, 2022. (to appear) **Pending**
+[paper](https://patents.google.com/patent/US20210106912A1/en)
+1.  [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Iuri Frosio][ifrosio], [Orazio Gallo][ogallo], [Ekta Prashnani][eprashnani];
+**Gaze determination using one or more neural networks**, 2022. (to appear) **Pending**
+[paper](https://patents.google.com/patent/US20210132688A1/en)
+1.  [Pontus Andersson][pandersson], [Tomas Akenine-Möller][takeninemoller], [Jim Nilsson][jnilsson], [Marco Salvi][msalvi], **[Josef Spjut][jspjut]**;
+**Reconstruction for temporally dense ray trace rendering**, 2021. **Granted**
+[paper](https://patents.google.com/patent/US20200312010A1/en)
+1.  [Holger Gruen][hgruen], [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
+**Adding greater realism to a computer-generated image by smoothing jagged edges within the image in an efficient manner**, 2022. (to appear) **Pending**
+[paper](https://patents.google.com/patent/US20190318455A1/en)
+1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Morgan McGuire][mmcguire], [Rahul Sathe][rsathe];
+**Adding greater realism to a computer-generated image by smoothing jagged edges**, 2021. **Granted**
 [paper](https://patents.google.com/patent/US20190318454A1/en)
 1.  [Trey Greer][tgreer], **[Josef Spjut][jspjut]**, [David Luebke][dluebke];
 **Retina space display stabilization and a foveated display for augmented reality**, 2021. **Granted**
@@ -294,3 +309,14 @@
    [ogallo]: https://oraziogallo.github.io/
    [eprashnani]: https://prashnani.github.io/
    [psen]: https://web.ece.ucsb.edu/~psen/
+   [sschneider]: https://www.linkedin.com/in/seth-schneider-a687a2b1/
+   [rdimitrov]: https://rdimitrov.twistedsanity.net/
+   [lnordskog]: None
+   [crobson]: https://www.linkedin.com/in/cody-robson-ab432629/
+   [keithli]: https://www.linkedin.com/in/keith-li-841a9954/
+   [gslavenburg]: https://www.linkedin.com/in/gerrit-slavenburg-21307814/
+   [tverbeure]: https://www.linkedin.com/in/tom-verbeure-b1b8aa/
+   [bwatson]: https://watson.csc.ncsu.edu/
+   [cmcgee]: https://www.researchgate.net/profile/Caitlin-Mcgee
+   [aissa]: https://www.linkedin.com/in/amine-issa-ph-d-20839619/
+   [wmackey]: http://wmackey.com/
