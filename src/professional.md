@@ -4,6 +4,7 @@
 * Member, [ACM](http://acm.org)
 * Paper Chair, [High Performance Graphics](https://www.highperformancegraphics.org/2022/)
 * Program Chair, [High Performance Graphics](https://www.highperformancegraphics.org/2021/)
+* IPC, [GameSys](https://gamesys22.wpi.edu/)
 * IPC, [High Performance Graphics](https://www.highperformancegraphics.org/2020/)
 * Jury Member, SIGGRAPH General Submissions [2019](https://s2019.siggraph.org/), [2021](https://s2021.siggraph.org/)
 * Reviewer, [SIGGRAPH General Submissions and VR Village](http://s2017.siggraph.org/)
