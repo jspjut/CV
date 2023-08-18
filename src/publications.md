@@ -204,6 +204,21 @@
 
 
 ## Technical Reports
+1.  [Devi Klein][dklein], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Joohwan Kim][joohwankim];
+**The Influence of Variable Frame Timing on First-Person Gaming**, *Tech Report*, June 2, 2023.
+[paper](https://arxiv.org/pdf/2306.01691)
+1.  **[Josef Spjut][jspjut]**, [Arjun Madhusudan][amadhusudan], [Benjamin Watson][bwatson], [Seth Schneider][sschneider], [Ben Boudaoud][bboudaoud], [Joohwan Kim][joohwankim];
+**Toward Understanding Display Size for FPS Esports Aiming**, *Tech Report*, May 26, 2023.
+[paper](https://arxiv.org/pdf/2305.16953)
+1.  **[Josef Spjut][jspjut]**, [Arjun Madhusudan][amadhusudan], [Benjamin Watson][bwatson], [Ben Boudaoud][bboudaoud], [Joohwan Kim][joohwankim];
+**The Esports Frontier: Rendering for Competitive Games**, *Tech Report*, August 24, 2022.
+[paper](https://arxiv.org/pdf/2208.11774)
+1.  [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Joohwan Kim][joohwankim];
+**Mouse Sensitivity Effects in First-Person Targeting Tasks**, *Tech Report*, March 22, 2022.
+[paper](https://arxiv.org/pdf/2203.12050)
+1.  **[Josef Spjut][jspjut]**, [Fengyuan Zhu][fzhu], [Xiaolei Huang][xhuang], [Yichen Shou][yshou], [Ben Boudaoud][bboudaoud], [Omer Shapira][oshapira], [Morgan McGuire][mmcguire];
+**Experimental Augmented Reality User Experience**, *Tech Report*, February 10, 2022.
+[paper](https://arxiv.org/pdf/2202.06726)
 1.  [Ekta Prashnani][eprashnani], [Orazio Gallo][ogallo], [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Pradeep Sen][psen], [Iuri Frosio][ifrosio];
 **Noise-Aware Saliency Prediction for Videos with Incomplete Gaze Data**, *Tech Report*, April 16, 2021.
 [paper](https://arxiv.org/pdf/2104.08038)
@@ -370,3 +385,7 @@
    [gward]: https://www.linkedin.com/in/gregoryjward/
    [amadhusudan]: https://www.linkedin.com/in/arjunmadhusudan/
    [rtarrazo]: None
+   [dklein]: https://viu.psych.ucsb.edu/people/devi-klein
+   [fzhu]: https://www.linkedin.com/in/fengyuan-zhu-239497111/
+   [xhuang]: https://www.linkedin.com/in/shirleyhuangsh/
+   [yshou]: https://www.linkedin.com/in/yichenshou/
