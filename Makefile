@@ -2,8 +2,9 @@
 
 CVNAME=spjut
 RNAME=spjut-resume
+TNAME=spjut-teaching
 
-all: $(CVNAME).html $(CVNAME).pdf $(RNAME).pdf
+all: $(CVNAME).html $(CVNAME).pdf $(RNAME).pdf $(TNAME).pdf
 
 # Standard pick everything alphabetically CV
 SRC=$(wildcard src/*.md)
@@ -35,6 +36,21 @@ RESUMEHTML=src/cv.html \
 	src/products.html \
 	src/games.html \
 
+# Teaching sections
+TEACHHTML=src/cv.html \
+	src/description.html \
+	src/teaching.html \
+	src/jobs.html \
+	src/education.html\
+	src/research.html \
+	src/publications.html \
+	src/students.html \
+	src/products.html \
+	src/funding.html \
+	src/honors.html \
+	src/professional.html \
+	src/games.html \
+
 raw.html: $(HTML) src/cv.md
 	pandoc -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(HTML))) src/cv.md
 
@@ -50,6 +66,12 @@ $(RNAME).html: $(RESUMEHTML) src/cv.md
 	pandoc -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(RESUMEHTML))) src/cv.md
 
 $(RNAME).pdf: $(RNAME).html src/cv.tex
+	pandoc -s -V colorlinks -H src/cv.tex $< -o $@
+
+$(TNAME).html: $(TEACHHTML) src/cv.md
+	pandoc -t html5 -o $@ $(addprefix -A , $(filter-out src/cv.html,$(TEACHHTML))) src/cv.md
+
+$(TNAME).pdf: $(TNAME).html src/cv.tex
 	pandoc -s -V colorlinks -H src/cv.tex $< -o $@
 
 src/%.html: src/%.md
