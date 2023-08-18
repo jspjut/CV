@@ -1,4 +1,19 @@
 ## Refereed Publications
+1.  [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Joohwan Kim][joohwankim];
+**Mouse Sensitivity in First-person Targeting Tasks**, *IEEE Transactions on Games*, July 17, 2023.
+[paper](https://ieeexplore.ieee.org/document/10184504)
+1.  [Joohwan Kim][joohwankim], [Arjun Madhusudan][amadhusudan], [Benjamin Watson][bwatson], [Ben Boudaoud][bboudaoud], [Roland Tarrazo][rtarrazo], **[Josef Spjut][jspjut]**;
+**Display Size and Targeting Performance: Small Hurts, Large May Help**, *SIGGRAPH Asia*, November 22, 2022.
+[paper](https://dl.acm.org/doi/10.1145/3550469.3555396)
+1.  [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Joohwan Kim][joohwankim], [Arjun Madhusudan][amadhusudan], [Benjamin Watson][bwatson];
+**Esports and expertise: what competitive gaming can teach us about mastery**, *ACM Interactions*, November-December, 2022.
+[paper](https://dl.acm.org/doi/10.1145/3567954)
+1.  [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Joohwan Kim][joohwankim];
+**Mouse Sensitivity in First-person Targeting Tasks**, *IEEE Conference on Games*, August 21, 2022.
+[paper](https://ieeexplore.ieee.org/document/9893626)
+1.  [Simone Kriglstein][skriglstein], [Anna Lisa Martin-Niedecken][amartin], **[Josef Spjut][jspjut]**, [Nicole B. Damen][ndamen], [Selen Turkay][sturkay], [Anders Drachen][adrachen];
+**Esports Meets Human-Computer Interaction**, *ACM Interactions*, May 2, 2022.
+[paper](https://dl.acm.org/doi/10.1145/3524855)
 1.  [Ekta Prashnani][eprashnani], [Orazio Gallo][ogallo], [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Pradeep Sen][psen], [Iuri Frosio][ifrosio];
 **Noise-Aware Saliency Prediction for Videos with Incomplete Gaze Data**, *The British Machine Vision Conference*, November 22, 2021.
 [paper](https://arxiv.org/pdf/2104.08038)
@@ -11,7 +26,7 @@
 1.  [Joohwan Kim][joohwankim], [Pyarelal Knowles][pknowles], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Morgan McGuire][mmcguire];
 **Post-Render Warp with Late Input Sampling Improves Aiming Under High Latency Conditions**, *Proceedings of the ACM on Computer Graphics and Interactive Techniques*, July 13-16, 2020.
 [paper](http://josef.spjut.me/pubs/kim_hpg2020_author.pdf)
-1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Jonghyun Kim][jonghyunkim], [Trey Greer][tgreer], [Rachel Albert][ralbert], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [David Luebke][dluebke];
+1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Jonghyun Kim][jonghyunkim], [Trey Greer][tgreer], [Rachel Brown (Albert)][ralbert], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [David Luebke][dluebke];
 **Toward Standardized Classification of Foveated Displays**, *IEEE Transactions on Visualization and Computer Graphics*, March 22, 2020.
 [paper](https://ieeexplore.ieee.org/document/8999630)
 1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Kamran Binaee][kbinaee], [Jonghyun Kim][jonghyunkim], [Alexander Majercik][zmajercik], [Morgan McGuire][mmcguire], [David Luebke][dluebke], [Joohwan Kim][joohwankim];
@@ -20,7 +35,7 @@
 1.  [Chris Larson][clarson], **[Josef Spjut][jspjut]**, [Ross Knepper][rknepper], [Robert Shepherd][rshepherd];
 **A deformable interface for human touch recognition using stretchable carbon nanotube dielectric elastomer sensors and deep neural networks**, *Soft Robotics*, October 4, 2019.
 [paper](https://www.liebertpub.com/doi/pdf/10.1089/soro.2018.0086)
-1.  [Jonghyun Kim][jonghyunkim], [Youngmo Jeong][youngmojeong], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [Rachel Albert][ralbert], [Ben Boudaoud][bboudaoud], [Trey Greer][tgreer], [Joohwan Kim][joohwankim], [Ward Lopes][wlopes], [Alexander Majercik][zmajercik], [Peter Shirley][pshirley], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [David Luebke][dluebke];
+1.  [Jonghyun Kim][jonghyunkim], [Youngmo Jeong][youngmojeong], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [Rachel Brown (Albert)][ralbert], [Ben Boudaoud][bboudaoud], [Trey Greer][tgreer], [Joohwan Kim][joohwankim], [Ward Lopes][wlopes], [Alexander Majercik][zmajercik], [Peter Shirley][pshirley], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [David Luebke][dluebke];
 **Foveated AR: Dynamically-Foveated Augmented Reality Display**, *ACM SIGGRAPH Proceedings*, Los Angeles, July, 2019.
 [paper](https://research.nvidia.com/sites/default/files/pubs/2019-07_Foveated-AR%3A-Dynamically-Foveated//Foveated_AR___v2%20%2815%29.pdf)
 1.  [Pontus Andersson][pandersson], [Jim Nilsson][jnilsson], [Marco Salvi][msalvi], **[Josef Spjut][jspjut]**, [Tomas Akenine-Möller][takeninemoller];
@@ -94,7 +109,7 @@
 1.  [Ben Boudaoud][bboudaoud], [Pyarelal Knowles][pknowles], [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**;
 **Gaming at Warp Speed: Improving Aiming with Late Warp**, *SIGGRAPH Emerging Technologies*, online, August 9-13, 2021.
 [paper](https://research.nvidia.com/publication/2021-08_Gaming-at-Warp)
-1.  [Jonghyun Kim][jonghyunkim], [Michael Stengel][mstengel], [Jui-Yi Wu][juiyiwu], [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Kaan Aksit][kaksit], [Rachel Albert][ralbert], [Trey Greer][tgreer], [Youngmo Jeong][youngmojeong], [Ward Lopes][wlopes], [Alexander Majercik][zmajercik], [Peter Shirley][pshirley], [Morgan McGuire][mmcguire], [David Luebke][dluebke];
+1.  [Jonghyun Kim][jonghyunkim], [Michael Stengel][mstengel], [Jui-Yi Wu][juiyiwu], [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Kaan Aksit][kaksit], [Rachel Brown (Albert)][ralbert], [Trey Greer][tgreer], [Youngmo Jeong][youngmojeong], [Ward Lopes][wlopes], [Alexander Majercik][zmajercik], [Peter Shirley][pshirley], [Morgan McGuire][mmcguire], [David Luebke][dluebke];
 **Matching Visual Acuity & Prescription: Towards AR for Humans**, *SIGGRAPH Emerging Technologies*, Los Angeles, July 28 - August 1, 2019.
 [paper](https://research.nvidia.com/sites/default/files/pubs/2019-07_Matching-Prescription-%26//2019_Etech_submission%20%2815%29.pdf)
 1.  [Kishore Rathinavel][krathinavel], [Praneeth Chakravarthula][pchakravarthula], [Kaan Aksit][kaksit], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Turner Whitted][jtw], [David Luebke][dluebke], [Henry Fuchs][hfuchs];
@@ -112,6 +127,15 @@
 
 
 ## Conference Talks and Courses
+1.  [Benjamin Watson][bwatson], [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Peter Shirley][pshirley], [Byungjoo Lee][blee];
+**Less is More: Rendering for Esports**, *SIGGRAPH Frontiers Workshop*, Los Angeles, August 7, 2023.
+[paper](None)
+1.  [Benjamin Watson][bwatson], **[Josef Spjut][jspjut]**, [Byungjoo Lee][blee], [Greg Ward][gward];
+**FirstPersonScience: An Open Source Tool for Studying FPS Esports Aiming**, *SIGGRAPH Frontiers Workshop*, Vancouver, August 10, 2022.
+[paper](https://research.nvidia.com/publication/2022-08_esports-frontier-rendering-interaction-and-display)
+1.  [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Pyarelal Knowles][pknowles], [Arjun Madhusudan][amadhusudan], [Joohwan Kim][joohwankim];
+**FirstPersonScience: An Open Source Tool for Studying FPS Esports Aiming**, *SIGGRAPH Talk*, Online, August 8, 2022.
+[paper](https://d1qx31qr3h6wln.cloudfront.net/publications/S2022_Talk_FPSci.pdf)
 1.  [Benjamin Watson][bwatson], **[Josef Spjut][jspjut]**, [Caitlin McGee][cmcgee], [Amine Issa][aissa], [Wayne Mackey][wmackey];
 **Esports as a Driving Problem in Computer Graphics**, *SIGGRAPH Panel*, Online, August 9-13, 2021.
 [paper](http://josef.spjut.me/pubs/watson21.pdf)
@@ -138,26 +162,38 @@
 
 
 ## Patents
+1.  [Jonghyun Kim][jonghyunkim], [Ben Boudaoud][bboudaoud], [Michael Stengel][mstengel], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire];
+**Modular prescription augmented reality display**, 2023. **Pending**
+[paper](https://patents.google.com/patent/US20230251508A1/en)
+1.  [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**;
+**Cheat detection by comparing mouse input and frame buffer**, 2023. **Pending**
+[paper](https://patents.google.com/patent/US20230241512A1/en)
+1.  **[Josef Spjut][jspjut]**;
+**Game cheat detection from mouse lifting**, 2023. **Pending**
+[paper](https://patents.google.com/patent/US20230241513A1/en)
+1.  [Joohwan Kim][joohwankim], [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**;
+**Target-based mouse sensitivity recommendations**, 2022. **Pending**
+[paper](https://patents.google.com/patent/US20220203230A1/en)
 1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Morgan McGuire][mmcguire], [Rahul Sathe][rsathe];
-**Adding greater realism to a computer-generated image by smoothing jagged edges**, 2021. (to appear) **Pending**
+**Adding greater realism to a computer-generated image by smoothing jagged edges**, 2021. **Pending**
 [paper](https://patents.google.com/patent/US20210398253A1/en)
 1.  [Joohwan Kim][joohwankim], [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Seth Schneider][sschneider], [Rouslan Dimitrov][rdimitrov], [Lars Nordskog][lnordskog], [Cody Robson][crobson], [Keith Li][keithli], [Gerrit Slavenburg][gslavenburg], [Tom Verbeure][tverbeure];
-**System-latency-aware display device**, 2022. (to appear) **Pending**
+**System-latency-aware display device**, 2020. **Pending**
 [paper](https://patents.google.com/patent/US20210243101A1/en)
 1.  [Jonghyun Kim][jonghyunkim], [Ben Boudaoud][bboudaoud], [Michael Stengel][mstengel], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire];
-**Modular prescription augmented reality display**, 2022. (to appear) **Pending**
+**Modular prescription augmented reality display**, 2022. **Pending**
 [paper](https://patents.google.com/patent/US20210181533A1/en)
 1.  [Pyarelal Knowles][pknowles], [Ben Boudaoud][bboudaoud], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Kamran Binaee][kbinaee], [Joohwan Kim][joohwankim], [Harish Vutukuru][hvutukuru];
-**Hardware acceleration and event decisions for late latch and warp in interactive computer products**, 2022. (to appear) **Pending**
+**Hardware acceleration and event decisions for late latch and warp in interactive computer products**, 2023. **Granted**
 [paper](https://patents.google.com/patent/US20210106912A1/en)
 1.  [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Iuri Frosio][ifrosio], [Orazio Gallo][ogallo], [Ekta Prashnani][eprashnani];
-**Gaze determination using one or more neural networks**, 2022. (to appear) **Pending**
+**Gaze determination using one or more neural networks**, 2019. (to appear) **Pending**
 [paper](https://patents.google.com/patent/US20210132688A1/en)
 1.  [Pontus Andersson][pandersson], [Tomas Akenine-Möller][takeninemoller], [Jim Nilsson][jnilsson], [Marco Salvi][msalvi], **[Josef Spjut][jspjut]**;
 **Reconstruction for temporally dense ray trace rendering**, 2021. **Granted**
 [paper](https://patents.google.com/patent/US20200312010A1/en)
 1.  [Holger Gruen][hgruen], [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
-**Adding greater realism to a computer-generated image by smoothing jagged edges within the image in an efficient manner**, 2022. (to appear) **Pending**
+**Adding greater realism to a computer-generated image by smoothing jagged edges within the image in an efficient manner**, 2022. **Pending**
 [paper](https://patents.google.com/patent/US20190318455A1/en)
 1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Morgan McGuire][mmcguire], [Rahul Sathe][rsathe];
 **Adding greater realism to a computer-generated image by smoothing jagged edges**, 2021. **Granted**
@@ -174,7 +210,7 @@
 1.  [Alexander Majercik][zmajercik], [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire];
 **Scaling Probe-Based Real-Time Dynamic Global Illumination for Production**, *Tech Report*, Sep 22, 2020.
 [paper](https://arxiv.org/pdf/2009.10796)
-1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Jonghyun Kim][jonghyunkim], [Trey Greer][tgreer], [Rachel Albert][ralbert], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [David Luebke][dluebke];
+1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Jonghyun Kim][jonghyunkim], [Trey Greer][tgreer], [Rachel Brown (Albert)][ralbert], [Michael Stengel][mstengel], [Kaan Aksit][kaksit], [David Luebke][dluebke];
 **Toward Standardized Classification of Foveated Displays**, *Tech Report*, May 3, 2019.
 [paper](https://arxiv.org/pdf/1905.06229)
 1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Ian Mallett][imallett], [Cem Yuksel][cyuksel];
@@ -207,7 +243,7 @@
 1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Kamran Binaee][kbinaee], [Alexander Majercik][zmajercik], [Morgan McGuire][mmcguire], [Joohwan Kim][joohwankim];
 **FirstPersonScience: Quantifying Psychophysics for First Person Shooter Tasks**, *UCI Esports Conference*, Irvine, October 10-12, 2019.
 [paper](http://josef.spjut.me/pubs/spjut19esc_paper.pdf)
-1.  [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Alexander Majercik][zmajercik], [Ben Boudaoud][bboudaoud], [Rachel Albert][ralbert], [David Luebke][dluebke];
+1.  [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Morgan McGuire][mmcguire], [Alexander Majercik][zmajercik], [Ben Boudaoud][bboudaoud], [Rachel Brown (Albert)][ralbert], [David Luebke][dluebke];
 **Esports Arms Race: Latency and Refresh Rate for Competitive Gaming Tasks**, *Vision Science Society*, St. Pete Beach, May 17-22, 2019.
 [paper](https://www.visionsciences.org/programs/VSS_2019_Abstracts.pdf)
 1.  [Mona Jalal][mjalal], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Margrit Betke][mbetke];
@@ -295,10 +331,11 @@
    [hclaure]: https://www.linkedin.com/in/houston-claure-33793771/
    [mjung]: http://mjung.infosci.cornell.edu/
    [mbetke]: http://www.cs.bu.edu/~betke/
-   [joohwankim]: http://www.kimjoohwan.com/
+   [joohwankim]: https://research.nvidia.com/person/joohwan-kim
    [youngmojeong]: http://www.youngmoj.com/
    [mstengel]: https://scholar.google.com/citations?user=9_GCtwUAAAAJ
-   [ralbert]: http://www.rachelalbert.com/
+   [ralbert]: http://www.rachelabrown.com/
+   [rbrown]: http://www.rachelabrown.com/
    [zmajercik]: https://research.nvidia.com/person/zander-majercik
    [juiyiwu]: https://www.linkedin.com/in/daronwu/
    [pandersson]: https://www.linkedin.com/in/-pontusan-/
@@ -324,3 +361,12 @@
    [aissa]: https://www.linkedin.com/in/amine-issa-ph-d-20839619/
    [wmackey]: http://wmackey.com/
    [mvance]: https://www.linkedin.com/in/michael-vance-56a127a/
+   [skriglstein]: https://www.fi.muni.cz/~kriglstein/
+   [amartin]: https://gamedesign.zhdk.ch/en/people/team/anna-lisa-martin-niedecken/
+   [ndamen]: https://www.linkedin.com/in/thenicoledamen/
+   [sturkay]: https://www.qut.edu.au/about/our-people/academic-profiles/selen.turkay
+   [adrachen]: https://arc.york.ac.uk/index.php/anders-drachen/
+   [blee]: https://scholar.google.com/citations?user=n1fr4iIAAAAJ
+   [gward]: https://www.linkedin.com/in/gregoryjward/
+   [amadhusudan]: https://www.linkedin.com/in/arjunmadhusudan/
+   [rtarrazo]: None
