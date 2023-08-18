@@ -1,26 +1,26 @@
 ## Research Students Advised
 
-* Andrew Carter, HMC CS B.S. 2013 (at LinkedIn) 
+* Andrew Carter, HMC CS B.S. 2013 (at RelationalAI) 
 * Max Korbel, HMC Engineering B.S. 2013 (at Intel) 
-* Tianliang Ning, HMC Engineering B.S. 2013 (at Unity) 
+* Tianliang Ning, HMC Engineering B.S. 2013 (at InnoPeak) 
 * Jingbin Yang, HMC Engineering B.S. 2015 (at NVIDIA)
-* Dong-hyeon Park, HMC Engineering B.S. 2014 (at Univ. of Michigan: PhD Student)
-* Eric Storm, HMC Engineering B.S. 2015 (at Perceptive Automata)
+* Dong-hyeon Park, HMC Engineering B.S. 2014 (at Univ. of Michigan: PhD)
+* Eric Storm, HMC Engineering B.S. 2015 (at RightHand Robotics)
 * Paul Jolly, HMC Engineering B.S. 2016 (at University of Rochester)
 * Fabiha Hannan, HMC Engineering B.S. 2016 (at Salesforce)
 * Akhil Bagaria, HMC Engineering B.S. 2016 (at Brown University: PhD Student)
 * Ivan Wong, HMC Engineering B.S. 2015 (at NVIDIA)
-* Skyler Williams, HMC CS B.S. 2016 (expected)
+* Skyler Williams, HMC CS B.S. 2016
 * Ramy Elminyawi, HMC Engineering B.S. 2016 (at Blue Marble Communications)
 * Amy Ngai, HMC Engineering B.S. 2016 (at Millenium Space Systems)
 * Richard Piersall, HMC Engineering B.S. 2016 (at Millenium Space Systems)
 * Kirklann Lau, HMC Engineering B.S. 2016 (at McGill University)
 * Andrew Fishberg, HMC Engineering B.S. 2016 (at MIT: PhD Student)
 * Da Eun Shim, HMC Engineering B.S. 2016 (at Georgia Tech: PhD Student)
-* Jean Sung, HMC CS B.S. 2016 (at Facebook)
-* Sebastian Krupa, HMC Engineering B.S. 2016 (at Microsoft)
+* Jean Sung, HMC CS B.S. 2016 (at Facebook/Meta)
+* Sebastian Krupa, HMC Engineering B.S. 2016 (at Google)
 
-## Clinic Projects Advised
+## Clinic Projects Advised (At Harvey Mudd College)
 
 * Design and Implementation of a Memory Testing Apparatus, Clinic Report for Dart Neuroscience, 2014-2015.
 Harvey Mudd College, 116 pages. May 2015. 
