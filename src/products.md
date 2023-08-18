@@ -7,11 +7,13 @@ In collaboration with The Meta, we deployed an experiment mode in the [KovaaK's 
 * February 2021: Target Color Experiment
 * February 2021: Render Resolution Experiment
 * December 2021: System Latency Challenge
+* April 2022: Latency Sweep Experiment
+* July 2022: 4:3 Stretch Experiment
 
 
 **NVIDIA Reflex Esports Performance Platform**
 
-In Fall 2018, I started a new research effort on esports with others at NVIDIA. We re-discovered through user studies that for first person aiming, computer system latency is important for maximum player performance. Working with product teams across the company, this led to the launch of the Reflex Esports Performance Platform including many products, such as the Reflex Latency Analyzer (RLA) that I co-invented released in 2020. [NVIDIA Reflex Platform](https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/). RLA monitors continue to be released regularly, including many more announced in 2021 and 2022.
+In Fall 2018, I started a new research effort on esports with others at NVIDIA. We re-discovered through user studies that for first person aiming, computer system latency is important for maximum player performance. Working with product teams across the company, this led to the launch of the Reflex Esports Performance Platform including many products, such as the Reflex Latency Analyzer (RLA) released in 2020. [NVIDIA Reflex Platform](https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/). RLA monitors continue to be released regularly, including many more announced in 2021 and 2022.
 
 
 **RTXGI**
