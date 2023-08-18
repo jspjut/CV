@@ -38,9 +38,9 @@ RESUMEHTML=src/cv.html \
 
 # Teaching sections
 TEACHHTML=src/cv.html \
-	src/description.html \
-	src/teaching.html \
+	src/teaching_description.html \
 	src/jobs.html \
+	src/teaching.html \
 	src/education.html\
 	src/research.html \
 	src/publications.html \
