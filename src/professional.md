@@ -1,6 +1,6 @@
 ## Professional Activities
 
-* Member, [IEEE](http://ieee.org)
+* Senior Member, [IEEE](http://ieee.org)
 * Member, [ACM](http://acm.org)
 * Steering Committee, [High Performance Graphics](https://www.highperformancegraphics.org/2022/steering-committee/)
 * Games Focus Area Chair, [SIGGRAPH 2023](https://s2023.siggraph.org/program/games/)
@@ -9,12 +9,15 @@
 * IPC, [PLEY 2023](https://pleyws.wordpress.com/)
 * IPC, [GameSys 2022](https://gamesys22.wpi.edu/)
 * IPC, High Performance Graphics [2020](https://www.highperformancegraphics.org/2020/), [2023](https://www.highperformancegraphics.org/2023/organization/)
+* IPC, I3D [2024](https://i3dsymposium.org/2024/committee.html)
 * Unified Jury Member, SIGGRAPH General Submissions [2019](https://s2019.siggraph.org/), [2021](https://s2021.siggraph.org/), [2022](https://s2022.siggraph.org), [2023](https://s2023.siggraph.org)
 * Reviewer, [SIGGRAPH General Submissions and VR Village](http://s2017.siggraph.org/)
 * Jury Member, [SIGGRAPH VR Village](http://s2017.siggraph.org/)
+* Guest Editor, [Information Systems Frontiers](https://metroxraine.org/metroxraine2023/special-issue-isfi)
 * Organizer, [Esports and High-Performance HCI Workshop](https://ehphci.org/) at CHI 2021
 * Co-organizer, [User Interactions for Building Knowledge Workshop (UIBK 2019)](https://dl.acm.org/doi/10.1145/3308557.3313122) at IUI
-* Reviewer, [SIGGRAPH Asia](https://asia.siggraph.org/2023/)
+* Reviewer, [ACM CHI 2024](https://chi2024.acm.org/)
+* Reviewer, SIGGRAPH Asia [2023](https://asia.siggraph.org/2023/) [2024](https://asia.siggraph.org/2024/)
 * Reviewer, [ISMAR](https://ismar23.org/)
 * Reviewer, [Computers and Graphics (CAG)](https://www.journals.elsevier.com/computers-and-graphics/)
 * Reviewer, [High Performance Graphics (HPG)](http://www.highperformancegraphics.org/)
