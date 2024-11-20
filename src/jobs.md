@@ -12,11 +12,20 @@ the [RTXGI SDK](https://developer.nvidia.com/rtxgi),
 the LDAT and [Reflex Latency Analyzer](https://www.nvidia.com/en-us/geforce/news/reflex-latency-analyzer-360hz-g-sync-monitors/) shipping in many G-SYNC monitors, 
 as well as the NVIDIA Experiments mode in the popular [KovaaK's FPS Aim Trainer](https://store.steampowered.com/app/824270/KovaaKs/).
 
+**Duke University**
+Durham, NC, USA
+
+*Adjunct Associate Professor*
+October 2023 - Present
+
+I taught the first programming course for the new game design, development, and innovation master's degree in Fall 2024.
+I continue to be involved in guest lectures, advising students, and planning future courses.
+
 
 **Harvey Mudd College**
 Claremont, CA, USA
 
-*Visiting Professor*
+*Visiting Assistant Professor*
 July 2012 - June 2015
 
 Taught courses in Digital Design, Parallel Computer Architecture,

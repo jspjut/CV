@@ -1,3 +1,7 @@
+## PhD Committees
+
+* Peter Xenopoulos, Advisor: Claudio Silva, NYU Defended 2022 (at NVIDIA)
+
 ## Research Students Advised
 
 * Andrew Carter, HMC CS B.S. 2013 (at RelationalAI) 

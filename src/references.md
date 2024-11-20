@@ -16,5 +16,5 @@ rajeev@cs.utah.edu
 shirley@cs.utah.edu
 
 **Dr. David McAllister**
-NVIDIA
-davemc@nvidia.com
+AMD
+

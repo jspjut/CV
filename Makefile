@@ -14,8 +14,8 @@ HTML=$(filter-out src/cv.html,$(SRC:.md=.html))
 ORDEREDHTML=src/cv.html \
 	src/description.html \
 	src/research.html \
-	src/education.html\
 	src/jobs.html \
+	src/education.html\
 	src/publications.html \
 	src/products.html \
 	src/students.html \

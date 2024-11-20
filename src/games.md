@@ -1,5 +1,9 @@
 ## Game Projects
 
+**Plunderwater: Sunken Treasures**
+
+I did a weekend game jam in October 2024 where I followed the instructions of AI (mostly Perplexity) to build a Godot game from scratch with no prior experience using the engine. Given the short time, the game isn't complete, but I gained a lot of insight into how useful AI chat tools were for game development at that point in time. ([Source code](https://github.com/jspjut/plunderwater-st) available on github.)
+
 **First Person Science**
 
 As part of our research efforts to study FPS aiming, I led development and maintenance of First Person Science, a stripped down first person shooter game for conducting human performance studies. After successfully completing our initial experiments in early 2019, we release regular updates on github to support further academic study. ([Source code](https://github.com/NVlabs/abstract-fps) and [releases](https://github.com/NVlabs/abstract-fps/releases) available on github.)
