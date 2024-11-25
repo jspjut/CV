@@ -10,13 +10,14 @@
 * IPC, [PLEY 2023](https://pleyws.wordpress.com/)
 * IPC, [GameSys 2022](https://gamesys22.wpi.edu/)
 * IPC, High Performance Graphics [2020](https://www.highperformancegraphics.org/2020/), [2023](https://www.highperformancegraphics.org/2023/organization/)
-* IPC, I3D [2024](https://i3dsymposium.org/2024/committee.html)
+* IPC, ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D) [2024](https://i3dsymposium.org/2024/committee.html)
 * Unified Jury Member, SIGGRAPH General Submissions [2019](https://s2019.siggraph.org/), [2021](https://s2021.siggraph.org/), [2022](https://s2022.siggraph.org), [2023](https://s2023.siggraph.org)
 * Reviewer, [SIGGRAPH General Submissions and VR Village](http://s2017.siggraph.org/)
 * Jury Member, [SIGGRAPH VR Village](http://s2017.siggraph.org/)
 * Guest Editor, [Information Systems Frontiers](https://metroxraine.org/metroxraine2023/special-issue-isfi)
 * Organizer, [Esports and High-Performance HCI Workshop](https://ehphci.org/) at CHI 2021
 * Co-organizer, [User Interactions for Building Knowledge Workshop (UIBK 2019)](https://dl.acm.org/doi/10.1145/3308557.3313122) at IUI
+* Reviewer, Foundations of Digital Games (FDG) [2024](https://fdg2024.org/), [2025](https://fdg2025.org/)
 * Reviewer, [ACM Transactions on Graphics 2024](https://dl.acm.org/journal/tog)
 * Reviewer, [IEEE Transactions on Games 2024](https://transactions.games/)
 * Reviewer, [ACM CHI 2024](https://chi2024.acm.org/)
