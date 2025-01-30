@@ -57,7 +57,7 @@
 1.  [Adam Marrs][amarrs], **[Josef Spjut][jspjut]**, [Holger Gruen][hgruen], [Rahul Sathe][rsathe], [Morgan McGuire][mmcguire];
 **Adaptive Temporal Antialiasing**, *High-Performance Graphics (HPG 2018)*, Vancouver, August 10-12, 2018.
 [paper](http://research.nvidia.com/sites/default/files/pubs/2018-08_Adaptive-Temporal-Antialiasing/adaptive-temporal-antialiasing-preprint.pdf)
-1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Ian Mallett][imallett], [Cem Yuksel][cyuksel];
+1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Agatha Mallett][amallett], [Cem Yuksel][cyuksel];
 **SimTrax: Simulation Infrastructure for Exploring Thousands of Cores**, *ACM Great Lakes Symposium on VLSI*, May 23-25, 2018.
 [paper](http://josef.spjut.me/pubs/shkurko18.pdf)
 1.  [Benjamin Mac Murray][bmacmurray], [Bryan Peele][bpeele], [Patricia Xu][patriciaxu], **[Josef Spjut][jspjut]**, [Omer Shapira][oshapira], [David Luebke][dluebke], [Robert Shepherd][rshepherd];
@@ -262,7 +262,7 @@
 1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Jonghyun Kim][jonghyunkim], [Trey Greer][tgreer], [Rachel Brown (Albert)][ralbert], [Michael Stengel][mstengel], [Kaan Akşit][kaksit], [David Luebke][dluebke];
 **Toward Standardized Classification of Foveated Displays**, *Tech Report*, May 3, 2019.
 [paper](https://arxiv.org/pdf/1905.06229)
-1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Ian Mallett][imallett], [Cem Yuksel][cyuksel];
+1.  [Konstantin Shkurko][kshkurko], [Tim Grant][tgrant], [Erik Brunvand][elb], [Daniel Kopta][dkopta], **[Josef Spjut][jspjut]**, [Elena Vasiou][evasiou], [Agatha Mallett][amallett], [Cem Yuksel][cyuksel];
 **SimTrax: Simulation Infrastructure for Exploring Thousands of Cores**, *Tech Report*, March 29, 2018.
 [paper](http://josef.spjut.me/pubs/shkurko18_tr.pdf)
 1.  [Chris Larson][clarson], **[Josef Spjut][jspjut]**, [Ross Knepper][rknepper], [Robert Shepherd][rshepherd];
@@ -290,7 +290,7 @@
 
 ## Refereed Posters
 1.  [Ziyang Chen][ziyangchen], [Mustafa Doğa Doğan][mdogan], **[Josef Spjut][jspjut]**, [Kaan Akşit][kaksit];
-**SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging**, *SIGGRAPH Asia Poster*, Tokyo, December 3-6, 2024. (to appear)
+**SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging**, *SIGGRAPH Asia Poster*, Tokyo, December 3-6, 2024.
 [paper](https://arxiv.org/abs/2410.06028)
 1.  **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Kamran Binaee][kbinaee], [Alexander Majercik][zmajercik], [Morgan McGuire][mmcguire], [Joohwan Kim][joohwankim];
 **FirstPersonScience: Quantifying Psychophysics for First Person Shooter Tasks**, *UCI Esports Conference*, Irvine, October 10-12, 2019.
@@ -368,7 +368,7 @@
    [patriciaxu]: https://orl.mae.cornell.edu//#people
    [tgrant]: https://www.cs.utah.edu/~tgrant/
    [evasiou]: http://www.cs.utah.edu/~elvasiou/
-   [imallett]: https://geometrian.com/
+   [amallett]: https://geometrian.com/
    [cyuksel]: http://www.cemyuksel.com/
    [amarrs]: http://visualextract.com/
    [hgruen]: https://www.linkedin.com/in/holger-gruen-b456791/
