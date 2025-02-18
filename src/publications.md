@@ -1,4 +1,10 @@
 ## Refereed Publications
+1.  [Tomas Krilavicius][tkrilavicius], [Lucio Tommaso De Paolis][lpaolis], [Valerio De Luca][vluca], **[Josef Spjut][jspjut]**;
+**eXtended reality and artificial intelligence in medicine and rehabilitation**, *Information Systems Frontiers*, January 29, 2025.
+[paper](https://link.springer.com/article/10.1007/s10796-025-10580-8)
+1.  [Devi Klein][dklein], **[Josef Spjut][jspjut]**, [Ben Boudaoud][bboudaoud], [Joohwan Kim][joohwankim];
+**Variable Frame Timing Affects Perception of Smoothness in First-Person Gaming**, *IEEE Conference on Games*, August 5, 2024.
+[paper](https://ieeexplore.ieee.org/abstract/document/10645568)
 1.  [Samin Shahriar Tokey][sstokey], [Zesheng Chen][zchen], [Colin Mettler][cmettler], [Dexuan Tang][dtang], [Ben Boudaoud][bboudaoud], [Joohwan Kim][joohwankim], **[Josef Spjut][jspjut]**, [Mark Claypool][mclaypool];
 **The Effects of Network Latency on the Peeker's Advantage in First-person Shooter Games**, *IEEE Computer Graphics and Applications*, May 21, 2024.
 [paper](https://web.cs.wpi.edu/~claypool/papers/peeker-fdg-24/paper.pdf)
@@ -451,3 +457,6 @@
    [vblukis]: https://www.cs.cornell.edu/~valts/
    [sbirchfield]: https://research.nvidia.com/person/stan-birchfield
    [jtremblay]: https://scholar.google.hu/citations?user=zeS5UJEAAAAJ&hl=en
+   [tkrilavicius]: https://scholar.google.com/citations?user=yXbNm10W7oUC&hl=en
+   [lpaolis]: https://www.unisalento.it/scheda-utente/-/people/lucio.depaolis
+   [vluca]: https://www.unisalento.it/scheda-utente/-/people/valerio.deluca
