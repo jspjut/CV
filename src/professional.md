@@ -18,16 +18,17 @@
 * Organizer, [Esports and High-Performance HCI Workshop](https://ehphci.org/) at CHI 2021
 * Co-organizer, [User Interactions for Building Knowledge Workshop (UIBK 2019)](https://dl.acm.org/doi/10.1145/3308557.3313122) at IUI
 * Reviewer, ACM SIGGRAPH [2025](https://s2025.siggraph.org/)
+* Reviewer, SIGGRAPH Asia [2023](https://asia.siggraph.org/2023/), [2024](https://asia.siggraph.org/2024/)
+* Reviewer, [ACM CHI 2024](https://chi2024.acm.org/)
+* Reviewer, [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945) 2024, 2025
 * Reviewer, Foundations of Digital Games (FDG) [2024](https://fdg2024.org/), [2025](https://fdg2025.org/)
 * Reviewer, [ACM Transactions on Graphics 2024](https://dl.acm.org/journal/tog)
 * Reviewer, [IEEE Transactions on Games 2024](https://transactions.games/)
-* Reviewer, [ACM CHI 2024](https://chi2024.acm.org/)
-* Reviewer, SIGGRAPH Asia [2023](https://asia.siggraph.org/2023/) [2024](https://asia.siggraph.org/2024/)
 * Reviewer, [ISMAR 2023](https://ismar23.org/)
 * Reviewer, [Computers and Graphics (CAG)](https://www.journals.elsevier.com/computers-and-graphics/)
 * Reviewer, [High Performance Graphics (HPG)](http://www.highperformancegraphics.org/)
-* Reviewer, [Transactions on Circuits and Systems (TCAS)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919)
-* Reviewer, [Transactions on Very Large Scale Integration Systems (TVLSI)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92)
+* Reviewer, [IEEE Transactions on Circuits and Systems (TCAS)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919)
+* Reviewer, [IEEE Transactions on Very Large Scale Integration Systems (TVLSI)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92)
 * Reviewer, [Journal of Imaging](http://www.mdpi.com/journal/jimaging)
 * Reviewer, [Symmetry](http://www.mdpi.com/journal/symmetry)
 * Reviewer, [Remote Sensing](https://www.mdpi.com/journal/remotesensing)
