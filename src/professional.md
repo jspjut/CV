@@ -12,19 +12,20 @@
 * IPC, High Performance Graphics [2020](https://www.highperformancegraphics.org/2020/), [2023](https://www.highperformancegraphics.org/2023/organization/)
 * IPC, ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D) [2024](https://i3dsymposium.org/2024/committee.html) [2025](https://i3dsymposium.org/2025/committee.html)
 * Unified Jury Member, SIGGRAPH General Submissions [2019](https://s2019.siggraph.org/), [2021](https://s2021.siggraph.org/), [2022](https://s2022.siggraph.org), [2023](https://s2023.siggraph.org), [2025](https://s2025.siggraph.org/)
-* Reviewer, [SIGGRAPH General Submissions and VR Village](http://s2017.siggraph.org/)
-* Jury Member, [SIGGRAPH VR Village](http://s2017.siggraph.org/)
+* Jury Member, SIGGRAPH VR Village [2017](http://s2017.siggraph.org/)
 * Guest Editor, [Information Systems Frontiers](https://metroxraine.org/metroxraine2023/special-issue-isfi)
 * Organizer, [Esports and High-Performance HCI Workshop](https://ehphci.org/) at CHI 2021
 * Co-organizer, [User Interactions for Building Knowledge Workshop (UIBK 2019)](https://dl.acm.org/doi/10.1145/3308557.3313122) at IUI
 * Reviewer, ACM SIGGRAPH [2025](https://s2025.siggraph.org/)
 * Reviewer, SIGGRAPH Asia [2023](https://asia.siggraph.org/2023/), [2024](https://asia.siggraph.org/2024/)
 * Reviewer, [ACM CHI 2024](https://chi2024.acm.org/)
+* Reviewer, CHI PLAY [2025](https://chiplay.acm.org/2025/)
 * Reviewer, [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945) 2024, 2025
 * Reviewer, Foundations of Digital Games (FDG) [2024](https://fdg2024.org/), [2025](https://fdg2025.org/)
 * Reviewer, [ACM Transactions on Graphics 2024](https://dl.acm.org/journal/tog)
 * Reviewer, [IEEE Transactions on Games 2024](https://transactions.games/)
-* Reviewer, [ISMAR 2023](https://ismar23.org/)
+* Reviewer, IEEE ISMAR [2023](https://ismar23.org/), [2025](https://www.ieeeismar.net/2025/contribute/papers/)
+* Reviewer, SIGGRAPH General Submissions and VR Village [2017](http://s2017.siggraph.org/)
 * Reviewer, [Computers and Graphics (CAG)](https://www.journals.elsevier.com/computers-and-graphics/)
 * Reviewer, [High Performance Graphics (HPG)](http://www.highperformancegraphics.org/)
 * Reviewer, [IEEE Transactions on Circuits and Systems (TCAS)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919)
