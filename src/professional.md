@@ -19,6 +19,7 @@
 * Reviewer, ACM SIGGRAPH [2025](https://s2025.siggraph.org/)
 * Reviewer, SIGGRAPH Asia [2023](https://asia.siggraph.org/2023/), [2024](https://asia.siggraph.org/2024/)
 * Reviewer, [ACM CHI 2024](https://chi2024.acm.org/)
+* Reviewer, ACM Symposium on User Interface Software and Technology (UIST) [2025](https://uist.acm.org/2025/)
 * Reviewer, CHI PLAY [2025](https://chiplay.acm.org/2025/)
 * Reviewer, [IEEE Transactions on Visualization and Computer Graphics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945) 2024, 2025
 * Reviewer, Foundations of Digital Games (FDG) [2024](https://fdg2024.org/), [2025](https://fdg2025.org/)
